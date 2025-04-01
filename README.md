@@ -82,4 +82,4 @@ Each application includes:
 
 ## Contributing
 
-This repository is maintained by the ENS DAO Meta-Governance Working Group. For questions or issues, please open an issue in this repository or contact the Meta-Governance Working Group through the ENS DAO forum.
+Feel free to contribute.
