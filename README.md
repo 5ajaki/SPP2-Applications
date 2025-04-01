@@ -10,11 +10,6 @@ This repository contains all applications submitted for the ENS Service Provider
 
 ## Program Overview
 
-// ... existing code ...
-
-
-## Program Overview
-
 SPP2 is designed to:
 
 - Support ecosystem development and improvement
