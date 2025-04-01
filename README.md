@@ -2,6 +2,17 @@
 
 This repository contains all applications submitted for the ENS Service Provider Program 2 (SPP2). The program aims to create a more diverse and decentralized base of developers and companies involved in improving the ENS system by providing guaranteed income streams to support their continued work.
 
+## Primary Links
+
+- [Service Provider Program Category](https://discuss.ens.domains/c/service-provider-program/75)
+- [Service Provider Applications Subcategory](https://discuss.ens.domains/c/service-provider-program/service-provider-applications/76)
+- [SPP2 Application Index](https://discuss.ens.domains/t/spp2-application-index/20495/4)
+
+## Program Overview
+
+// ... existing code ...
+
+
 ## Program Overview
 
 SPP2 is designed to:
