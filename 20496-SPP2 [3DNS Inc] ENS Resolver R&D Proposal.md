@@ -213,3 +213,13 @@ Good luck running for SPP2!
 
 ---
 
+# Post #3 by brantlymillegan
+Posted at: 2025-04-01T19:53:58.491Z
+
+![](https://discuss.ens.domains/user_avatar/discuss.ens.domains/daostrat.eth/48/11349_2.png) daostrat.eth:
+> * MetaGov will include you in the group endorsement snapshot on April 1;
+
+I have 108k delegates votes and I endorse this application to fulfill the ENS Token Endorsement Requirement.
+
+---
+

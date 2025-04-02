@@ -73,3 +73,19 @@ Posted at: 2025-03-31T23:48:59.948Z
 
 ---
 
+# Post #5 by 5pence.eth
+Posted at: 2025-04-01T13:56:25.689Z
+
+I threw together a quick repo of all the applications as markdown files if it’s helpful to anyone who wants an easy way to ingest these.
+
+[github.com](https://github.com/5ajaki/SPP2-Applications)
+
+![](https://discuss.ens.domains/uploads/db9688/optimized/2X/d/d7a3e7ef5af2b50dea8a3a202921219ef6344659_2_690x344.png)
+### [GitHub - 5ajaki/SPP2-Applications: A repo of the Markdown files for all SPP2...](https://github.com/5ajaki/SPP2-Applications)
+
+A repo of the Markdown files for all SPP2 Applications
+
+PRs are fine if you have anything to help.
+
+---
+

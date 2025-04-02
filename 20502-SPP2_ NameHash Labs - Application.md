@@ -735,3 +735,23 @@ Good luck running for SPP2!
 
 ---
 
+# Post #5 by nick.eth
+Posted at: 2025-04-01T13:48:00.500Z
+
+I’m happy to endorse Namehash’s nomination as a streaming provider this term. Their subgraph replacement in particular will be vital infrastructure for ENS going forward.
+
+---
+
+# Post #6 by Zimtente
+Posted at: 2025-04-02T06:39:17.378Z
+
+[@lightwalker.eth](/u/lightwalker.eth) and his team @namehash are doing incredible work in the ENS space. We @vision already profit from their work they have put into NameAI and Namegraph. I def. support their proposal and look forward to continue to work with them!
+
+![:slight_smile:](https://discuss.ens.domains/images/emoji/twitter/slight_smile.png?v=12 ":slight_smile:")
+
+To add: @ensnode I use the ENS Subgraph for [vision.io](http://vision.io) since inception of ens.vision back March 2022. And my feedback would be that it “sucks”. There are a whole lot of unknowns and things that you have to guess and figure out by your own as nothing is documented. Especially since the introduction of the NW I had to add a whole lot of workarounds and had a whole lot of redeployments because something was not as I did expect. Example: [Subgraph Domain.expiryDate checkup - #4 by Zimtente](https://discuss.ens.domains/t/subgraph-domain-expirydate-checkup/19199/4) (there are whole lot more of these). Or that Renew Events are for some reason not considered a “Domain Event” which just makes use consume double the credits as we need to track 2 event streams from the graph instead of just one.
+
+So I’m very much looking forward to use ensnode instead as it would make our lives @ vision much easier in terms of indexing ENS related data that we use to power vision back and frontend.
+
+---
+

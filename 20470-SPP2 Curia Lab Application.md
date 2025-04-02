@@ -237,3 +237,38 @@ Thank you [@Curia](/u/curia) ![:saluting_face:](https://discuss.ens.domains/imag
 
 ---
 
+# Post #5 by Curia
+Posted at: 2025-04-02T10:58:17.984Z
+
+Initial mockup ideas for ENS Governance Analytics 👇
+
+**Delegate:**  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/7/7c65644796134f9358f5ce849bb881bace119c81_2_407x500.jpeg)image1920×2357 236 KB](https://discuss.ens.domains/uploads/db9688/original/2X/7/7c65644796134f9358f5ce849bb881bace119c81.jpeg "image")  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/5/5bf01287616a39768177c7ace636a574c27f84bf_2_690x448.jpeg)image1920×1247 112 KB](https://discuss.ens.domains/uploads/db9688/original/2X/5/5bf01287616a39768177c7ace636a574c27f84bf.jpeg "image")  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/f/fa0f500f4ed7cbf86730781c8e4024d3ce737c6f_2_430x500.jpeg)image1920×2232 215 KB](https://discuss.ens.domains/uploads/db9688/original/2X/f/fa0f500f4ed7cbf86730781c8e4024d3ce737c6f.jpeg "image")  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/2/2aad696719fff84a9ca54f92fce70a1792d6e352_2_369x500.jpeg)image3024×4094 582 KB](https://discuss.ens.domains/uploads/db9688/original/2X/2/2aad696719fff84a9ca54f92fce70a1792d6e352.jpeg "image")
+
+**Holder:**  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/9/976036adcead8f6b2be299a2f3fd3764213a3c94_2_442x500.png)image3584×4054 802 KB](https://discuss.ens.domains/uploads/db9688/original/2X/9/976036adcead8f6b2be299a2f3fd3764213a3c94.png "image")  
+
+**Voting Power:**  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/6/641e5c94cc31a00e0c3257e3619173a9087717fa_2_288x500.png)image3584×6220 1.38 MB](https://discuss.ens.domains/uploads/db9688/original/2X/6/641e5c94cc31a00e0c3257e3619173a9087717fa.png "image")  
+
+**Proposals:**  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/4/4d6ffa584c7d1b9bac26419aecfe9a319b28ef01_2_517x500.png)image3600×3476 766 KB](https://discuss.ens.domains/uploads/db9688/original/2X/4/4d6ffa584c7d1b9bac26419aecfe9a319b28ef01.png "image")  
+
+**Pariticpation:**  
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/e/e997b8357649ac773c8f9ddffc76b469a4602acf_2_445x500.png)image3588×4030 617 KB](https://discuss.ens.domains/uploads/db9688/original/2X/e/e997b8357649ac773c8f9ddffc76b469a4602acf.png "image")
+
+These early designs idea are meant to explore how we can make ENS governance data more accessible and create insights for the community. Feedback is very welcome—we aim to refine these further based on what’s most useful to delegates and stakeholders.
+
+---
+

@@ -427,3 +427,12 @@ We look forward to seeing you in the running for SPP2!
 
 ---
 
+# Post #3 by James
+Posted at: 2025-04-02T05:12:56.909Z
+
+Last years proposal from EFP made significant impact on the social elements of ENS.
+
+Ethereum identity kit, ENS worker and EFP are all are high leverage outcomes for ENS worth supporting from our perspective.
+
+---
+
