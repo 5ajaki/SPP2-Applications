@@ -216,3 +216,12 @@ Good luck running for SPP2!
 
 ---
 
+# Post #3 by jefflau.eth
+Posted at: 2025-04-05T14:48:39.042Z
+
+Namestone has built one of the products I had an idea a long time ago at ENS, which was durin. The idea for durin was to package the technologies for subname issuance on L2s in an opinionated way to allow more developers to issue subnames without having to do all the research themselves. This if done correctly, combined with the right docs and marketing will hopefully drive adoption of ENS from a developer bottom-up direction. I hope to see this package of open source libraries used more in hackathons, pet-projects and even mainnet projects.
+
+I endorse Namestone’s application for SPP2.
+
+---
+

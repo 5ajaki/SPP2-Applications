@@ -13,7 +13,7 @@ Posted at: 2025-03-30T22:07:02.465Z
 5. **Company Overview**:
    * Namespace is a current ENS Service Provider focused on growing ENS through partnerships, developer integrations, and building a comprehensive suite of tools and products to streamline ENS Subnames adoption. We are a leading ENS Subname service provider and have worked with industry leaders in different industries on ENS integration.
 6. **Requested Amount**:
-   * Basic Scope: $400,000 / $600,000 extended scope
+   * Basic Scope: $400,000
    * Yes, we are interested in the 2-year stream
 7. **Size of team and commitment**:
    * Currently 2 full-time employees + 5 part-time and contributors.
@@ -82,7 +82,7 @@ We, the Namespace, confirm that neither our organization nor any of our employee
 * Products and Services:
   + [Namespace App](https://app.namespace.ninja/) – a user-centric app for L1 and L2 subnames.
   + [Dev Docs](https://docs.namespace.ninja/) – comprehensive documentation Namespace users.
-  + [Namespace SDK](https://docs.namespace.tech/dev-docs/namespace-sdk) – developer docs for programmatically managing subnames.
+  + [Namespace SDK](https://docs.namespace.tech/dev-docs/namespace-sdk) – for programmatically managing subnames.
   + [Offchain Subname API](https://docs.namespace.tech/dev-docs/offchain-subnames-api) – v1 infrastructure for offchain subnames.
   + [Subpages](https://github.com/thenamespace/subpages/) – customizable websites with built-in Subname minting.
 * Dev integrations with ENS support at:
@@ -105,15 +105,15 @@ Requested amount: $400k
 
 ### Overview
 
-In 2024, we were working as a team of 3 people and we excelled in 3 key areas. Now, we’re doubling down on what we do best and sharpening our focus.
+In 2024, we worked as a team of three people and excelled in three key areas. Now, we’re doubling down on what we do best and sharpening our focus.
 
-1. **Subname Services** – Continue being the premier Subname service provider (Offchain, L2, and soon Namechain subnames). Keep refining our dev tooling, SDK, web apps, and keep simplifying subname integrations, and improving the overall quality of our products and services:
+1. **Subname Services** – Continue being the premier Subname service provider (L1, L2, Offchain and soon Namechain subnames). Keep refining our dev tooling, SDK, web apps, simplifying subname integrations, and improving the overall quality of our products and services:
    
    * 1.1 Dev Portal
    * 1.2 Namespace App
    * 1.3 Namespace SDK
    * 1.4 Agents.Domains
-2. **Dedicated BD Arm**: Introduce a dedicated in-house BD team (formed of a BD and DevRe led by Cap) solely focused on increasing partnerships and developer integrations that drive both consumer and developer growth.
+2. **Dedicated BD Arm**: Introduce a dedicated in-house BD team solely focused on increasing partnerships and developer integrations that drive both consumer and developer growth.
 3. **Side Quests**: 10-20% of our builder energy is put towards rapid experiments, growth hacks, and quick and fun app launches focused on growth and keeping ENS engaged with emerging trends. These initiatives boost ENS adoption, increase ENS exposure in consumer and dev circles, and unlock creative ENS subname use cases.
 
 ## 1. Subname Services
@@ -136,7 +136,7 @@ As a Subname service provider, there are **4 flagship products** we built and ru
 
 * Developer-focused app.
 * Continue providing developers with a quick, secure, and simple-to-use interface for creating, editing, and integrating Subname registrations into their projects.
-* Streamline and promote the Subname-as-a-Service model, enabling companies from different industries to integrate it into their products or offer it as a complementary service to their core offering.
+* Streamline and promote the Subname-as-a-Service model, enabling companies from different industries to integrate it into their products or offer it as a complementary service of their core service offering.
 
 **Deliverables:**
 
@@ -221,7 +221,7 @@ As a Subname service provider, there are **4 flagship products** we built and ru
 
 **Objectives**:
 
-* Create a dev-friendly umbrella Namespace library for every service we offer for making Subname implementation in different apps quick and simple
+* Create a dev-friendly umbrella Namespace library for every service we offer for making Subname implementation in different apps quick and simple.
 
 **Deliverables**:
 
@@ -285,6 +285,16 @@ To quote jefflau.eth from [frENSday](https://frensday.ens.domains/): “*The Suc
 
 Similar to the relationship **Etherealize has with Ethereum**, we plan to create a BD department within Namespace, with the potential to evolve into the **standalone BD Arm of ENS** and the broader Namechain ecosystem in the future.
 
+**State of the Subname market**
+
+* 2M ENS names, but ~70% of all ENS name registrations happen through the ENS app (just one front-end).
+* 15M Offchain subnames, but ~99% of all Offchain subnames are self-hosted infra (time/resource-intensive) and attributed to cb.id and uni.eth subnames (just two wallets).
+* 1M L2 subnames, but 99% of almost all L2 subnames came from base.eth and linea.eth (just two L2 chains).
+
+**Opportunity**
+
+The data shows a massive untapped market for offchain and L2 subname registration. The demand is evident, but the reliance on self-hosted infrastructure and a small subset of wallets and chains indicates that the process is neither scalable, easily replicable, and therefore feasible for the average dev team or company, nor is it high on the priority list. The opportunity lies in creating out-of-the-box solutions to enable in-app offchain and L2 subname registrations, backed by a dedicated BD team focused on go-to-market execution, distribution, and industry outreach!
+
 Selling ENS is unlike traditional sales – it requires deep technical understanding, the ability to communicate its unique value proposition effectively (differs from industry to industry), and the expertise to navigate the Web3 ecosystems. With Cap’s experience in building and scaling BD and Sales teams (having previously founded and run a sales company), leveraging our network after 7 years in crypto, and hands-on involvement with ENS for 3 years, our team is uniquely positioned to drive this initiative.
 
 Building on [extensive experience](https://mirror.xyz/thecap.eth/2ijEyV8Gv2ioB5c3hT6gpWIMK45d2noLGP3KPEryQ-E) from 2024 in working with many clients, Namespace is launching a dedicated in-house BD team to drive ENS adoption through strategic partnerships, developer integrations, and ENS ecosystem expansion. This team will focus on collaborating with industry leaders and working to embed ENS into their core infrastructure, products, or apps.
@@ -345,7 +355,7 @@ We’ve been actively engaged with leaders from industries below in 2024, collab
 
 ## 3. Side Quests
 
-**Nurturing Builder Culture**: At Namespace, we believe in a builder culture – a culture where innovation and experimentation are encouraged and rewarded. While our core services and products are the foundation of our mission, we allocate 10-20% of our efforts to Side Quests.
+At Namespace, we believe in a builder culture – a culture where innovation and experimentation are encouraged and rewarded. While our core services and products are the foundation of our mission, we allocate 10-20% of our efforts to Side Quests.
 
 **Side Quests** are experimental, low-risk initiatives that complement a Namespace’s core objectives by exploring new opportunities, trends, or growth strategies. These projects are designed to test ideas quickly, drive engagement, and uncover insights or value that may not be immediately apparent through the main product focus.
 
@@ -400,70 +410,12 @@ Last year, we successfully launched 3 impactful smaller projects and plan to kee
 
 * **Host ENS event**: ENS event for ETHBelgrade (see [last year’s event](https://www.youtube.com/watch?v=TVbBKlmAEFU&t=2s))
 * **ENS advocacy at conferences**: ETHPrague, ethCC, Devcon, and more.
-* **Livestreams and Interviews** – after a very successful [Livestream](https://www.youtube.com/watch?v=IIMZ9CPZlEM) recently, I decided to try and do them more regularly. This requires no extra effort on my part—I already live and breathe ENS. Focus would be on: ENS, partnerships and integrations, DAOs, Ecosystem, Digital Identity.
+* **Livestreams and Interviews** – after a very successful [Livestream](https://www.youtube.com/watch?v=IIMZ9CPZlEM) recently, I decided to try and do them more regularly. This requires no extra effort on my part—I already live and breathe ENS.
+* Focus would be on: ENS, partnerships and integrations, DAOs, Ecosystem, Digital Identity.
 
 ## Budget
 
 * Asking for a $400k budget to cover development costs, salaries for 9 people, operational expenses, and infrastructure costs.
-
-## 4.2 Extended Scope of Work
-
-The extended scope covers two key initiatives, and I would highly encourage taking them into consideration as they focus on:
-
-1. Agents.Domains – **the emerging technological trend**.
-2. Namespace Marketplace – **increasing DAO revenue**.
-
-### 1. Agents.Domains
-
-**Objective**:
-
-* [Agents.Domains](https://agentdomains.namespace.ninja/) ensures ENS remains at the forefront of AI by establishing it as the definitive identity layer for autonomous agents.
-* The extended scope would enable us to take the lead in this collaborative initiative and hire a dedicated DevRel to focus entirely on Agents.Domains.
-
-**Additional Deliverables**:
-
-* Leading the initiative
-* Move from an MVP to a production-ready app.
-* Establish a dedicated team.
-* More integrations with AI frameworks and launchpads.
-* Improve the manifest spec based on feedback and feature requests.
-* Open-source the codebase and organization to invite contributors.
-* Grow the contributor ecosystem through incentives and engagement.
-* Produce technical content:
-  + Docs, tutorials, blog posts, videos, example code, etc.
-* Actively engage with developers through groups and social media.
-* Active advocacy and outreach through conferences, workshops, etc.
-
-**Measurable results**:
-
-* More AI agent Subnames created
-* Total AI agents registered
-* More launchpads integrated
-* API usage metrics
-* Contributor growth
-* Community growth (Discord, X, Telegram)
-
-### 2. Namespace Marketplace
-
-Namespace Marketplace drives consumer engagement and an increase in DAO revenue by leveraging ENS subnames to create vibrant subcultures, fostering activity through gamification and financial incentives.
-
-**Why is it important?**
-
-The long-term sustainability of the ENS DAO is directly tied to its revenue streams. A big portion of this revenue can come from enabling the creation, trade, and financialization of ENS names and subnames through an ENS-native marketplace.
-
-Unlike traditional domain marketplaces, Namespace Marketplace would focus on allowing users to launch their own (subname) collections underneath their ENS names. Effectively making each ENS name the collection owner and each subname a one piece of that collection. This mirrors the familiar concept of NFT collections and trading, but applies it to ENS.
-
-By using mechanics that are already second nature to Web3 users (NFT trading), we allow for quick adoption and intuitive participation. This will not only engage more users but also build a deeper sense of community around specific ENS-based projects. Think of these subnames as a means of creating **cultural identifiers or “subcultures”** ENS, Identity, and Namechain.
-
-This marketplace would play a key role in strengthening the ENS’s broader community involvement and **increasing the DAO’s revenue**. Furthermore, as the Marketplace takes off, it will enhance the advocacy of ENS through grassroots efforts and increase the value of the ENS ecosystem as a whole.
-
-**A powerful outcome** of this initiative could be that countless crypto users will naturally end up with a .eth subname while having fun, collecting subnames (NFTs, artwork, community identifiers, etc.), or chasing profit, which perfectly aligns with our ultimate mission – bringing ENS subnames to every single wallet.
-
-**Important note**: For maximum and long-term ENS alignment, all revenue generated would be swapped monthly for $ENS tokens, effectively working as a ‘*buyback*’ mechanism and token value accrual. Tokens will be used for delegation, developer incentive programs, and contribution rewards.
-
-## Extended Scope Budget
-
-* Asking for a $600k budget to cover development costs, operational expenses, infrastructure costs, and salaries for an additional 3 people.
 
 ## 4.3 Second Year Stream Scope of Work
 
@@ -479,6 +431,7 @@ Overall, we’re here to keep building and innovating for ENS, always prioritizi
 
 ### Existing Service Providers from 2024
 
+* Twitter [thread summary](https://x.com/namespace_eth/status/1914655173944992082) of our 2024 highlights.
 * 2024 grant size: $200k
 * Below are the results of our 3-person team (2 devs + 1 product/BD person)
 * Since January 2025, we’ve hired 4 more people to help us with the workload
@@ -534,7 +487,7 @@ Some of the cool stuff we shipped as Service Providers:
 
 ### BD Work
 
-Below are only Subname integrations we did, are doing, or plan to do. We are not including BD efforts that resulted in custom ENS implementation or enabling resolution for names and avatars.
+Below are only Subname integrations we did, are doing, or plan to do. We are not including BD efforts that resulted in custom ENS implementation or enabling ENS resolution for names and avatars. Although it might have been initiated by us through our outreach and advocacy, it’s unfair to take credit.
 
 **Partnerships:**
 
@@ -590,8 +543,9 @@ By the end of the year, we expect a lot of subnames to be created through wallet
 * 2+ years building on ENS protocol
 * 2+ years contributing to the DAO
 * 1 year of experience as a Service provider
-* Onchain summer campaign – “[GotBased.eth?](https://x.com/namespace_eth/status/1810796963899789499)”, (reached tens of thousands)
-* Writing and publishing – [Mirror Page](http://mirror.xyz/thecap.eth)
+* Wrote and published [9 articles about ENS](http://mirror.xyz/thecap.eth) (>100 pages total)
+* Led [Onchain summer](https://x.com/namespace_eth/status/1838310619768135893) campaign – “[GotBased.eth?](https://x.com/namespace_eth/status/1810796963899789499)”,
+  + Reached tens of thousands
 * Namespace Rewind: A Year of ENS Success – [Livestream link](https://x.com/i/broadcasts/1ypKdZygYQYJW).
 * Countless Twitter spaces
 * Active ENS advocacy
@@ -641,6 +595,15 @@ Posted at: 2025-03-31T01:45:52.475Z
 > We have a sponsor - [@Griff](/u/griff). Currently, we have an in-chat written agreement, but tagging him here for confirmation. Griff has >50k ENS tokens delegated to him.
 
 YES! I would proudly sponsor Namespace!
+
+---
+
+# Post #4 by cap
+Posted at: 2025-04-23T07:43:14.914Z
+
+We decided to remove the Extended scope budget from our application.
+
+We also put together [this thread](https://x.com/namespace_eth/status/1914655173944992082) to highlight our key achievements and contributions in 2024 – not as detailed as the application above, but a lot easier for delegates to go through and get the full picture.
 
 ---
 

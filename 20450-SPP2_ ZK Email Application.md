@@ -186,7 +186,7 @@ Posted at: 2025-03-31T19:57:37.040Z
 
 Thanks for the note. We’ve updated the basic scope to 400K and made the below change:
 
-For the extended scope, we’ve added the ability to pay *any* social media account through ENS, even if they haven’t created their ENS record yet. We think this can drive a lot of new apps like retroPGF or even native platform tipping (like bots tipping money on Github or Twitter, but with money claimable through zk verified records on ENS), that we hope can give the DAO more confidence in our extended ask as well!
+For the extended scope, we’ve added the ability to pay *any* social media account through ENS, even if they haven’t created their ENS record yet. We think this can drive a lot of new apps like retroPGF or even native platform tipping (like bots tipping money on Github or Twitter, but with money claimable through zk verified records on ENS). We think this can drive new ENS activity on new platforms with new interaction modalities, and hopefully can give the DAO more confidence in our extended ask being valuable to ENS as well!
 
 ---
 
@@ -196,6 +196,15 @@ Posted at: 2025-04-01T05:19:48.438Z
 ZKemail team are building some of the most practicle and interesting technology in the Ethereum ecosystem, bringing web2 credentials onchain with ZK magic. Having them build alongside the ENS ecosystem is a huge win.
 
 Social Username Resolution as a well as a **number** of the extended scope outcomes are incredibly interesting to FireEyes!
+
+---
+
+# Post #7 by jefflau.eth
+Posted at: 2025-04-04T16:56:22.499Z
+
+I’ve believed in programmable cryptography being the next step for ENS to be the center of identity since 2021. Back then, it was largely a pipe dream and teams preceding ZK-email were building circuits to prove simple things like keccak256. It’s amazing to see the technology progress to the point where it can actually be used in applications such as ENS. If this can all be proved on a mobile device and client-side, which from zk-email’s proposal is highly likely I’d love to see this powering ENS resolvers for fully permissionless verified records.
+
+I am happy to endorse ZK email for SPP2
 
 ---
 

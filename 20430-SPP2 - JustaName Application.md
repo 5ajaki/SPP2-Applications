@@ -14,6 +14,7 @@ Posted at: 2025-03-28T11:44:31.478Z
 * <https://docs.justaname.id>
 * <https://chat.justaname.id>
 * <https://extension.justaname.id/>
+* <https://www.ensvolution.xyz/>
 
 ### **Primary Contact/entity ENS Name.eth:** ens.justaname.eth (Hardware wallet)
 
@@ -26,30 +27,42 @@ Posted at: 2025-03-28T11:44:31.478Z
 
 ### **Company Overview:**
 
-At JustaName, we provide powerful, ENS-centric solutions spanning infrastructure, products, and developer tools—focused on making complex technology accessible to everyone.
+At JustaName, we believe ENS is the identity layer of the internet. Our mission is to make that identity programmable, contextual, and accessible at scale. To achieve this, we’re building the **User State Layer**: a programmable interface for ENS identities that enables meaningful, user-centric experiences across wallets, dApps, and enterprise ecosystems.
 
-Positioning ENS namespaces as the bedrock for scalable onchain identity layers, we empower businesses and enterprises to easily deploy intuitive, personalized, and socially engaging user journeys. All while maintaining the familiarity, ease of use, and perceived security of the traditional internet.
+We turn raw ENS names into full digital identities — enabling verifications, preferences, engagement tracking, and secure interactions — without compromising on decentralization. This empowers developers and businesses to create experiences that are technically robust and socially engaging.
 
-Our comprehensive approach is structured into three distinct layers designed for robust, secure, and scalable decentralized identity management.
+ENS namespaces serve as the foundation for intuitive, personalized, and interoperable digital journeys. By abstracting protocol complexity and offering streamlined SDKs, dashboards, and plug-and-play modules, JustaName accelerates adoption while preserving the neutrality and openness of ENS.
 
-**Infrastructure:**  
+Our platform is composed of three strategic layers:
 
-Our robust backend architecture and scalable microservices serve as the bedrock of our platform. This layer includes secure, high-performance systems for ENS offchain subname issuance, decentralized identity management, and real-time data analytics. It ensures that all subsequent applications and integrations are reliable and secure.
+**Infrastructure**
 
-**Applications:**  
+Our backend architecture is the foundation that powers the entire JustaName ecosystem. It features scalable microservices and high-performance systems for offchain ENS subname issuance, decentralized identity orchestration, and real-time data analytics. To ensure full transparency and decentralization, we leverage OrbisDB on the Ceramic Network to publish subname events, creating a tamper-resistant audit trail while maintaining a smooth, consistent developer experience. This resilient architecture ensures every integration built on top is both secure and scalable.
 
-On top of this foundation, our ENS Identity Platform provides the tools necessary for managing and integrating decentralized identity. This suite includes a user-friendly Dashboard for configuring ENS second-level domains and generating API keys, three comprehensive SDKs (Core, React & Plug-n-Play) alongside a flexible plugin system for custom integrations, and a Console that allows users to generate tailored widget code without extensive technical overhead. An integrated Explorer enables controlled testing and refinement of new features, ensuring stability and ease of use.
+**Applications**
 
-**Enterprise Adoption:**  
+Built atop this infrastructure is our ENS Identity Platform: a comprehensive suite of tools that makes it easy to manage, extend, and integrate ENS-based identities. It includes:
 
-We think that the next big wave of Web3 adoption cannot be created from scratch, so our strategic focus is on enabling the next 1,000 companies to adopt decentralized identity solutions, in turn allowing them to onboard the next millions users that already exist and engage within the platforms themselves. By offering advanced identity tools for managing, monitoring, and analyzing user engagement, we help organizations transition from traditional digital identity systems to an ENS-based approach. This enterprise-first model leverages existing trust networks and provides practical solutions for integrating onchain and offchain identity data.
+* A user-friendly **Dashboard** for configuring second-level domains and generating API keys
+* Three SDKs—**Core, React, and Plug-n-Play**—to support both custom and rapid deployment paths
+* A powerful **Console** to generate embeddable widget code with minimal effort
+* An integrated **Explorer** for controlled experimentation and live QA workflows
 
-Every element of JustaName is built around ENS, providing a consistent framework for decentralized identity that is designed to be accessible and scalable for both technical and non-technical users.
+These tools abstract away protocol complexity, allowing developers and teams to focus on creating delightful user experiences without sacrificing control or flexibility.
+
+**Enterprise Adoption**
+
+We believe the next 100 million onchain users won’t come from crypto-native communities alone—they’ll be onboarded by the companies that already own digital distribution and user trust. But to realize this, ENS must become accessible to any company, not just those already aligned with Web3. That’s why we’re building **identity-powered wallets**: offchain-issued, self-custodial ENS names that double as intuitive user wallets—no seed phrases, no friction, no complexity.
+
+This unlocks a fundamentally new distribution model for ENS: one where any business can issue digital identities preconfigured for wallet functionality, user verification, and onchain access. It transforms ENS from a naming system into a globally distributed, programmable identity layer. By offering enterprise-ready tools to manage, monitor, and analyze user engagement, JustaName bridges traditional systems with the decentralized web—enabling brands to meet users where they are, and bring them fully onchain.
+
+**One Identity at a Time**
+
+Every layer of JustaName is deeply aligned with ENS—extending its reach, simplifying its adoption, and amplifying its impact. We aren’t just building on ENS. We’re building *for* ENS, and with the right support, we can help ENS scale to millions of new users—one identity at a time.
 
 ### **Requested Amount:**
 
-* Basic scope: $400,000
-* Extended scope: $600,000
+* Basic scope: $300,000
 
 ### **Size of team and commitment:**
 
@@ -80,44 +93,44 @@ This experienced team brings extensive expertise in blockchain technology, decen
 
 ### **Company Age & Reputation:**
 
-JustaLab is an onchain innovation studio laser-focused on solving Web3 user experience challenges. Our journey began by addressing the complexities of wallet interactions and onboarding, where we faced and overcame significant hurdles. After understanding the potential of leveraging ENS and CCIP-read beyond abstracting cryptic blockchain addresses, we dedicated the past year and a half to building our ENS identity-centric development platform.
+JustaLab is an onchain innovation studio laser-focused on solving Web3 user experience challenges. Our journey began by addressing the complexities of wallet interactions and onboarding, where we faced and overcame significant hurdles. After understanding the potential of leveraging ENS and CCIP-read beyond abstracting cryptic blockchain addresses, we dedicated the past year and a half (since October 2023) to building our ENS identity-centric development platform.
 
-Today, JustaName stands as a robust and reliable infrastructure, with established partnerships across the ecosystem. We’ve formed meaningful collaborations with industry leaders including DFNS (for identity-powered wallets), protocol teams like EFP, POAP, XMTP, and Talent Protocol (as official plugins integrated via our SDK), NameHash (working on standards for indexing offchain subnames), and AIWS (advancing AI and ENS technology integration).
+Today, JustaName stands as a robust and reliable infrastructure, with established partnerships across the ecosystem. We’ve formed meaningful collaborations with industry leaders including [DFNS](https://www.dfns.co/) (for identity-powered wallets), protocol teams like [EFP](https://efp.app/), [POAP](https://poap.xyz/), [XMTP](https://xmtp.org/), and [Talent Protocol](https://www.talentprotocol.com/) (as official plugins integrated via our SDK), [NameHash](https://www.namehash.io/) (working on standards for indexing offchain subnames), and [AIWS](https://aiws.eth.limo/) (advancing AI and ENS technology integration).
 
-Our client relationships span multiple levels of engagement, reflecting both depth and breadth in the ENS ecosystem. We have live integrations with YODL and Peanut Protocol. We’re collaborating with Ipe City, AIWS, SlingshotDAO and Synthetix—an OG pioneer in DeFi—while also maintaining a long-term collaboration with XBTO, which now owns xbto.eth. Looking ahead, our pipeline includes iconic prospects such as CryptoKitties, alongside Byopills, Kuvi, OORT, and MigratingLines. In each case, ENS serves as the core identity primitive, underscoring our commitment to driving meaningful adoption and shaping the future of decentralized identity.
+Our client relationships span multiple levels of engagement, reflecting both depth and breadth in the ENS ecosystem. We have live integrations with [YODL](https://yodl.me/), [Peanut Protocol](https://peanut.me/) and [Ipe City](https://www.ipe.city/). We’re collaborating with [AIWS](https://aiws.eth.limo/), [SlingshotDAO](https://slingshotdao.com/) and [Synthetix](https://www.synthetix.io/)—an OG pioneer in DeFi—while also maintaining a long-term collaboration with [XBTO](https://www.xbto.com/), which now owns xbto.eth. Looking ahead, our pipeline includes iconic prospects such as [CryptoKitties](https://www.cryptokitties.co/), alongside [Byopills](https://www.byopills.com/), [Kuvi](https://kuvi.ai/), [OORT](https://www.oortech.com/), and [MigratingLines](https://migratinglines.info/). In each case, ENS serves as the core identity primitive, underscoring our commitment to driving meaningful adoption and shaping the future of decentralized identity.
 
 [![justaname_pipeline](https://discuss.ens.domains/uploads/db9688/optimized/2X/c/cc2784c1850c86e940665028518624f41bfb1c95_2_690x388.jpeg)justaname\_pipeline1920×1080 81.6 KB](https://discuss.ens.domains/uploads/db9688/original/2X/c/cc2784c1850c86e940665028518624f41bfb1c95.jpeg "justaname_pipeline")
 
 ### **Team Experience:**
 
-Our team has significant experience developing both in Web3 and competitive Web2 or TradFi projects. In particular we have very relevant B2B Enterprise experience, we understand SaaS platforms built for scale, performance, and with zero-tolerance to compromising on reliability and robustness.
+Our team has significant experience developing both in Web3 and competitive Web2 or TradFi projects. In particular we have very relevant B2B Enterprise experience, we understand SaaS platforms built for scale, performance, and with zero-tolerance to comprising on reliability and robustness.
 
 We also have a unique network, because of our previous experiences, and also geographically. We are well positioned to push ENS in ecosystems that still ambition to build their own naming systems.
 
 **Ryan**
 
-Over a decade building early stage tech ventures. Former founding team (team member #8) at AxiomZen (creators and parent company of Cryptokitties, Dapper Labs: Flow blockchain, NBA Topshot etc, authors of ERC 721, coined the term ‘NFT’):
+Over a decade building early stage tech ventures. Former founding team (team member #8) at [AxiomZen](https://www.axiomzen.com/) (creators and parent company of [Cryptokitties](https://www.cryptokitties.co/), [Dapper Labs](https://www.dapperlabs.com/): [Flow blockchain](https://flow.com/), [NBA Topshot](https://nbatopshot.com/) etc, authors of ERC 721, coined the term ‘NFT’):
 
-* Co-founder of KLKTN (launched q1-2021, acquired by Animoca in 2023)
+* Co-founder of KLKTN (launched q1-2021, acquired by [Animoca](https://www.animocabrands.com/) in 2023)
 * Co-founder of [ZenHub](https://www.zenhub.com/) (B2B SaaS w/ many Fortune 500 customers and household names like Apple, Adobe, Microsoft, NASA JPL, Starbucks, or MetaMask)
 
 **Ghadi**
 
 5+ years in blockchain software development.  
 
-Former blockchain lead at Foo, developing smart contract architecture for cold pools with Ledger signing, creating Segwit multisig BTC solutions, and building HSM-based hot wallet pools across both UTXO and Account models.
+Former blockchain lead at [Foo](https://foo.mobi/), developing smart contract architecture for cold pools with Ledger signing, creating Segwit multisig BTC solutions, and building HSM-based hot wallet pools across both UTXO and Account models.
 
-At Cryptoware, developed an NFT Marketplace including an NFT launchpad factory.
+At [Cryptoware](https://www.cryptoware.me/), developed an NFT Marketplace including an NFT launchpad factory.
 
-Holder of a postgraduate degree in Blockchain Technology and Digital Currencies. Recently became the very first certified smart contract developer from Cyfrin Updraft.
+Holder of a postgraduate degree in Blockchain Technology and Digital Currencies. Recently became the very first certified smart contract developer from [Cyfrin](https://www.cyfrin.io/).
 
 **Hadi**
 
-Web3 Software Engineer with 5+ years in blockchain technologies. Ex-Senior Engineer at RektStudios, delivering pixel streaming solutions, NFT platforms, and crypto payment gateways. Led the Frontend development at Cryptoware, launching an NFT marketplace and Mobile Crypto Wallet. Co-founded HAQQ, a legal services marketplace connecting clients with attorneys and providing case management tools, and Sweep, an innovative platform enabling merchants to distribute USDT through secure burner card
+Web3 Software Engineer with 5+ years in blockchain technologies. Ex-Senior Engineer at [RektStudios](https://rektstudios.com/), delivering pixel streaming solutions, NFT platforms, and crypto payment gateways. Led the Frontend development at [Cryptoware](https://www.cryptoware.me/), launching an NFT marketplace and Mobile Crypto Wallet. Co-founded [HAQQ](https://haqq.me/), a legal services marketplace connecting clients with attorneys and providing case management tools, and Sweep, an innovative platform enabling merchants to distribute USDT through secure burner card
 
 **Adrian**
 
-Former UX Lead & Co-PM at Firmenich Innovation, leveraging technology to build tools that optimize operations, detect incidents, and support data-driven decisions. Key projects include FirSafe, a predictive safety system recognized by the SAP Innovation Awards 2021, and OneSensory, a platform designed to predict sensory outcomes. Previously, he designed the PoC for Flow Bank, a Swiss neo-bank launched in 2018, and served as a communications engineering specialist in the Swiss Army (Air Force), earning a medal for his role in the 2017 Bondo landslide rescue mission.
+Former UX Lead & Co-PM at [Firmenich](https://www.dsm-firmenich.com/en/home.html) Innovation, leveraging technology to build tools that optimize operations, detect incidents, and support data-driven decisions. Key projects include FirSafe, a predictive safety system recognized by the SAP Innovation Awards 2021, and OneSensory, a platform designed to predict sensory outcomes. Previously, he designed the PoC for Flow Bank, a Swiss neo-bank launched in 2018, and served as a communications engineering specialist in the Swiss Army (Air Force), earning a medal for his role in the 2017 Bondo landslide rescue mission.
 
 ### **ENS Token Endorsement Requirement:**
 
@@ -135,8 +148,8 @@ While we plan to progressively open-source our entire infrastructure stack as th
 
 Our codebase will continue to be accessible through public GitHub repositories, ensuring transparency and encouraging collaboration. Our open-source ethos extends beyond code sharing—we actively develop public goods for the ENS ecosystem, including:
 
-* A Ceramic DB implementation for offchain data storage to enhance transparency and align with Web3 principles
-* MPC-TSS solutions specifically designed for CCIP-Read, providing robust and secure offchain resolutions
+* ENSvolution, an interactive tool for visualizing the evolution of Ethereum Name Service (ENS) profiles over time.
+* MPC-TSS solutions specifically designed for CCIP-Read, providing more robust and secure offchain resolutions
 * An extensible Plugin system enabling community-driven extensions of ENS functionality
 
 We firmly believe that an open-source approach, combined with rigorous safety practices, is essential to foster trust, innovation, and widespread adoption of ENS technology.
@@ -147,15 +160,17 @@ We firmly believe that an open-source approach, combined with rigorous safety pr
 
 ### 4.0 How Funding JustaName will advance the ENS Ecosystem
 
-Our strategy focuses on onboarding high-value accounts—those with substantial existing audiences and user bases—because we believe that the next 100 million onchain users will be brought by the brands and organizations who already have them online. We deliver a uniquely scalable and robust platform designed to bridge ENS protocol and Namechain directly to enterprise-scale adoption, ensuring reliability and seamless industry integration.
+Our strategy focuses on onboarding high-value accounts—those with substantial existing audiences and user bases—because we believe that the next 100 million onchain users will be brought by the brands and organizations who already have them online. We deliver a uniquely scalable and robust platform designed to bridge ENS protocol and Namechain directly to enterprise-scale adoption, ensuring reliability and streamlined industry integration.
+
+However, reaching this vision is challenging if we limit our focus to companies already aligned with Web3—those whose users already have wallets. This significantly narrows the scope of impact. To truly scale ENS adoption, we need to make it accessible to *any* company, regardless of their technical familiarity with crypto. That’s why we’re building **identity-powered wallets**: a system where businesses can issue ENS-based digital identities that function as wallets from day one, without requiring users to manage keys or understand blockchain infrastructure.
 
 Our moonshot goal is to issue one million subnames through our platform. While ambitious, we believe this vision is achievable by consistently building value-driven partnerships. The ripple effects of achieving this goal extend far beyond our platform, if we can issue millions of subnames, we will create millions in ARR for ENS DAO because a large percentage of subnames users are first time ENS users. Activating these users via offchain names will inevitably drive many toward purchasing second-level ENS names, directly monetizing the DAO.
 
-Today, building an ENS-centric company remains challenging in a restrictive investor climate. However, our project is dedicated to changing this narrative. ENS support during these early, formative stages is crucial to overcoming current funding constraints and fully realizing our pioneering vision.
+Today, building an ENS-centric company remains challenging in a restrictive investor climate. Our project is dedicated to changing this narrative. ENS support during these early, formative stages is crucial to overcoming current funding constraints and fully realizing our pioneering vision.
 
-### 4.1 Basic Scope of Work
+### 4.1 Scope of Work
 
-**Requested amount:** $400,000
+**Requested amount:** $300,000
 
 **Description:**  
 
@@ -167,22 +182,28 @@ The basic scope focuses on maintaining, enhancing, and expanding core JustaName 
    * Enhance JustaName Core SDK (TypeScript and React) for streamlined integration
    * Improve SIWENS (Sign In With ENS) for decentralized server-side authorization
    * Refine JustWeb3 Plug-n-Play SDK for simplified ENS integrations
+   * JustaNameResolverV2: A highly optimized and scalabale version of our offchain resolver.
 2. **Public Goods Development:**
    
-   * **Ceramic DB for Offchain Data Storage:** Implement Ceramic Network integration to store offchain ENS data in user-controlled streams, enhancing privacy and aligning with Web3 principles
-   * **MPC-TSS for CCIP-Read:** Fully implement Multi-Party Computation Threshold Signatures for robust, secure offchain resolutions
-   * **Plugin Expansion:** Broaden our ecosystem with innovative plugins that extend ENS functionality
+   * **ENSvolution roadmap**: Enhance [ENSvolution](https://www.ensvolution.xyz/) to provide deeper insights into the complete lifecycle of ENS names. Our roadmap includes visualizing ownership transfers, monitoring renewal events, integrating historical sale price data, and supporting offchain names through our standardized indexing system. We’ll also implement analytics for trend analysis, comparative tools for examining multiple ENS names, and developer APIs for ecosystem integration. These improvements will transform ENSvolution from a profile history tool into a comprehensive ENS analytics platform serving both individual users and enterprise adopters.
+   * **Finalize and Standardize Event-Based Indexing for Offchain Names:** Complete the standardization process for the proposed offchain subname events system, which will provide a consistent format and API for tracking creation, updates, and deletions. This approach will enable efficient indexing through a provider-agnostic discovery mechanism and standardized endpoint, eliminating the need for continuous polling while maintaining flexibility in backend implementation choices.
+   * **MPC-TSS for CCIP-Read**: Fully implement Multi-Party Computation Threshold Signatures (MPC-TSS) for robust, secure offchain resolutions. Instead of relying on a single signer, this distributed signing approach enhances resilience, security, and fault-tolerance, significantly mitigating single points of failure and ensuring high availability and trustworthiness of offchain data.
+   
+   **Advanced Public Goods:**
+   
+   * **Encrypted Solutions:** Enable users to encrypt and securely share sensitive, private, or confidential data points within their ENS text records exclusively with designated ENS names (people, organizations, or even AI agents), enhancing privacy, granular access control, and secure data management.
+   * **AI x Identity:** Leverage the aforementioned encrypted solutions to develop frameworks to embed user context directly into ENS profiles, enabling personalized LLM experiences while removing the need to expose sensitive user context to external LLM providers. This approach empowers users with full control over their personal data, significantly enhancing privacy, autonomy, and data sovereignty.
 3. **JustaName Platform Enhancement:**
    
    * **Identity-Powered Wallet Infrastructure:**  
      
-     JustaName is building towards a future where businesses can issue ENS-powered identities that effortlessly function as self-custodial wallets. Initially, these identities will be issued offchain, allowing businesses immediate scalability and frictionless onboarding. Upon the launch of ENSv2 on Namechain, the focus will progressively shift toward fully decentralized, onchain issuance. Businesses will simply issue a name, preconfigured with addresses across selected chains, transforming onboarding into an intuitive, identity-first experience. Users will interact seamlessly with their digital identity, free from the complexities of managing wallets or keys. By integrating this process with our verification systems, we’re creating a holistic identity layer that simplifies adoption while preserving the core benefits of self-custody and user control.
+     JustaName is building towards a future where businesses can issue ENS-powered identities that effortlessly function as self-custodial wallets. Initially, these identities will be issued offchain, allowing businesses immediate scalability and frictionless onboarding. Upon the launch of ENSv2 on Namechain, the focus will progressively shift toward fully decentralized, onchain issuance. Businesses will simply issue names, preconfigured with addresses across selected chains, transforming onboarding into an intuitive, identity-first experience. Users will interact intuitively with their digital identity, free from the complexities of managing wallets or keys. By integrating this process with our verification systems, we’re creating a holistic identity layer that simplifies adoption while preserving the core benefits of self-custody and user control.
    
    Components: The system integrates **ENS** as the foundational identity layer, with **DFNS** serving as the Key Management System (KMS). On top of this, a **smart contract account** architecture enables advanced functionality such as \*\*\*\*batch transactions. It leverages **EIP-7702** for delegated execution and **EIP-4337** for gas sponsorship, utilizing existing infrastructure.
    
    **Why is this valuable to ENS?**  
    
-   This approach positions JustaName to broadly appeal to any company worldwide by significantly lowering the barriers for adopting ENS technology. It allows businesses—even those without Web3 expertise—to seamlessly issue and manage digital identities, thus making ENS accessible and relevant across traditional and emerging industries. Essentially, it opens the door for global, widespread distribution of ENS-based technology.
+   This approach positions JustaName to broadly appeal to any company worldwide by significantly lowering the barriers for adopting ENS technology. It allows businesses—even those without Web3 expertise—to issue and manage digital identities with minimal friction, thus making ENS accessible and relevant across traditional and emerging industries. Essentially, it opens the door for global, widespread distribution of ENS-based technology.
    
    * **Deep Data Analytics:** Deliver advanced insights for workspace owners by harnessing onchain data from ENS profiles, issued subnames, and verification records. Our analytics suite helps organizations understand engagement patterns and measure adoption across segments, transforming blockchain data into business intelligence. This data-driven approach supports strategic decision-making and enhances personalized engagement for companies while respecting user privacy.
    
@@ -200,9 +221,10 @@ The basic scope focuses on maintaining, enhancing, and expanding core JustaName 
 1. **Product Development:**
    * Quarterly release of significant platform improvements.
    * Infrastructure uptime >99.9% with regular security audits.
-   * Launch at least 2 ENS-focused public goods.
+   * Launch at least 3 ENS-focused public goods.
+   * Support EVM chains into launching their ENS subdomains (similar to base.eth).
 2. **ENS Ecosystem Adoption:**
-   * 10,000 subnames issued by April 2025; target 100,000 subnames by EOY 2025.
+   * 10,000 subnames issued by May 2025; target 100,000 subnames by EOY 2025.
    * Manage 300+ active second-level ENS domains by end of year.
 
 **3. Enterprise Integration:**
@@ -210,45 +232,11 @@ The basic scope focuses on maintaining, enhancing, and expanding core JustaName 
 * Onboard at least 1 prominent Web3 brand per quarter.
 * Engage at least 5 significant enterprises (1M+ user potential or recognized legacy brands).
 * Complete 2 deep, customized integrations placing ENS at the core of enterprise UX.
+* Enable at least 3 significant brands to issue identity-powered wallets
 
 **Budget:**  
 
-$400,000 for the basic scope of work, covering team salaries, infrastructure costs, and development expenses for maintaining core functionality and developing public goods.
-
-### 4.2 Extended Scope of Work
-
-**Requested amount:** $600,000
-
-**Description:**  
-
-The extended scope includes all basic scope items plus accelerated development of advanced ENS extensions:
-
-1. **Advanced Public Goods:**
-   * **Encryption Solutions:** Enable users to encrypt and securely share specific data points with designated ENS names
-   * **AI x Identity:** Develop frameworks to embed user context into ENS profiles for personalized LLM experiences
-2. **Advanced Platform Features:**
-   * **ENS Hub:** Create a unified platform enabling any ENS owner to manage a community by issuing subnames
-   * **Enhanced Identity Authorization:** Expand SIWENS capabilities with advanced verification methods and flexible authorization layers.
-
-**KPIs / Success Metrics:**
-
-1. **Innovation & Ecosystem Impact:**
-   * Release at least 4 new public goods benefiting ENS users.
-   * Deploy a secure, functional encryption solution integrated into ENS records.
-2. **Ecosystem Growth:**
-   * Expand plugin ecosystem to 10+ specialized plugins serving diverse user personas.
-   * Onboard 5+ enterprises implementing advanced ENS integrations.
-   * Enable at least 3 significant brands to issue identity-powered wallets
-3. **Adoption and Scale:**
-   * Integrate ENS as the primary naming system for at least 2 iconic Web3 brands.
-
-**Budget:**  
-
-$600,000, encompassing all basic scope items and additional strategic developments.
-
-Note: Our ambition - like many other teams aspiring to be service providers - is greater than what we are able to do with our budget, but we see this as an opportunity to prove ourselves. We have historically delivered extensive product depth and breadth despite resource constraints. The extended budget provides us with a stronger foundation to not only meet but exceed our commitments, allowing our team to innovate more freely and comfortably than we’ve previously been able to.
-
-Selecting the basic budget doesn’t mean we will omit items listed under the extended scope. Instead, it reflects our immediate prioritization. Regardless of funding level, we remain committed to pushing ourselves to deliver on all outlined objectives. Conversely, receiving the extended budget will empower us to push our boundaries further, explore additional innovations beyond those explicitly outlined, and maximize our contribution to the ENS ecosystem. Ultimately, our proposal outlines a prioritized roadmap rather than a strict boundary for our scope of work.
+$300,000 for the basic scope of work, covering team salaries, infrastructure costs, and development expenses for maintaining core functionality and developing public goods.
 
 ## 5. Past Achievements & Additional Information
 
@@ -260,9 +248,9 @@ JustaName has built a robust technical foundation that places us at the forefron
 
 We’ve engineered the most sophisticated, secure, and high-performant infrastructure specifically designed for off-chain issuance at scale. Our architecture comprises of eight specialized microservices communicating through a centralized Kafka event streaming system, with a Kong Gateway intelligently routing external requests. Built on Domain-Driven Design principles and an Event-Driven approach, this infrastructure ensures exceptional scalability, fault tolerance, and maintainability.
 
-Our system runs within an AWS Virtual Private Cloud, leveraging Kubernetes for orchestration, with integrated security services ensuring controlled access across the platform. This comprehensive approach includes a rigorous testing pipeline and the LGTM monitoring stack for real-time performance insights, guaranteeing reliability, and security for even the most demanding enterprise use cases.
+To ensure transparency and decentralization of identity state, we integrate OrbisDB \*\*\*\*on the \*\*\*\*Ceramic Network \*\*\*\*for publishing subname events—creating a tamper-resistant, queryable log of offchain identity activity. Our system runs within an AWS Virtual Private Cloud, leveraging Kubernetes for orchestration, with integrated security services ensuring controlled access across the platform. This comprehensive approach includes a rigorous testing pipeline and the LGTM monitoring stack for real-time performance insights, guaranteeing reliability, and security for even the most demanding enterprise use cases.
 
-[Expanded Technical Deep Dive](https://nosy-seat-655.notion.site/Expanded-Technical-Deep-Dive-1b2137310f71804da9ece303c7b687d7)
+[Expanded Technical Deep Dive](https://www.notion.so/Expanded-Technical-Deep-Dive-1b2137310f71804da9ece303c7b687d7?pvs=21)
 
 **Comprehensive Product Suite - A Complete ENS Journey:**
 
@@ -277,7 +265,21 @@ Our system runs within an AWS Virtual Private Cloud, leveraging Kubernetes for o
 * **Plugins Ecosystem:** A vibrant, community-driven architecture with specialized extensions for POAP, XMTP, Talent Protocol, and EFP, all distributable as separate npm packages
 * **AI Integration:** Specialized ENS agent and tools that enable natural language interactions for ENS lookups and management
 
-[Expanded Product Suite](https://nosy-seat-655.notion.site/Expanded-Product-Suite-1b2137310f71804da2dbec2f48aff8f9)
+[Expanded Product Suite](https://www.notion.so/Expanded-Product-Suite-1b2137310f71804da2dbec2f48aff8f9?pvs=21)
+
+**ENSvolution.xyz - Making ENS History Accessible**  
+
+[![ensvolution_spp](https://discuss.ens.domains/uploads/db9688/optimized/2X/5/5725448e32626dfef914ff4c3ae9150fe2ca49b6_2_690x388.jpeg)ensvolution\_spp1920×1080 104 KB](https://discuss.ens.domains/uploads/db9688/original/2X/5/5725448e32626dfef914ff4c3ae9150fe2ca49b6.jpeg "ensvolution_spp")  
+
+As part of our public goods contributions, we developed [ENSvolution](https://www.ensvolution.xyz/), an interactive tool visualizing the evolution of ENS profiles over time. This platform transforms complex onchain data into an intuitive, chronological view that helps users understand how ENS identities develop.
+
+Key features include:
+
+* Interactive timeline with color-coded change tracking (additions, modifications, deletions)
+* Visualization of text records, address records, and resolver contract changes
+* Transaction verification with direct links to Etherscan
+
+ENSvolution serves multiple stakeholders - from individual users verifying identity history to developers debugging resolution issues. By making ENS history accessible and understandable to both technical and non-technical users, we’re helping build a more transparent identity layer for Web3 while demonstrating our team’s capabilities with complex data processing and visualization.
 
 ## 6. Video Introduction
 

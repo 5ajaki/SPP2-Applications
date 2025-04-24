@@ -755,3 +755,12 @@ So I’m very much looking forward to use ensnode instead as it would make our l
 
 ---
 
+# Post #7 by jefflau.eth
+Posted at: 2025-04-03T15:15:41.058Z
+
+Indexing ENS names is a hard task that I myself was trying to tackle in 2018 (I did a hackathon on it in ETHBerlin 2018 and I used node data that Nick helped to dump out for me on big query) just before the graph was built. The graph was never built for dealing with CCIP-read and it makes sense for a team to take on this task as with ENS going to its own L2 this has to be production ready.
+
+I’m happy to endorse Namehash for SPP2.
+
+---
+

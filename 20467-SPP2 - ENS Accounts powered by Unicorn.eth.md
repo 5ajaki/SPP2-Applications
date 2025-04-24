@@ -15,51 +15,51 @@ Posted at: 2025-03-31T09:08:10.375Z
 
 ## Proposal Overview:
 
-Unicorn.eth is an established ENS Service Provider, committed to accelerating ENS adoption and utility. We have built and scaled powerful infrastructure, creating over 19,000 ETHDenver subdomains,while also fixing the SporkDAO onboarding experience. We want to double down on these efforts and bring the value ENS’s technology can provide directly to the ENS community through the creation of ENS Accounts.
+Unicorn.eth is an established ENS Service Provider, committed to accelerating ENS adoption and utility. We have built and scaled powerful infrastructure, creating over 19,000 ETHDenver subdomains, while also fixing the SporkDAO onboarding experience. We want to double down on these efforts and bring the value ENS’s technology can provide directly to the ENS community through the creation of ENS Accounts.
 
-ENS Accounts will become the fastest way new community members onboard into the ENS Ecosystem, and the easiest way for current community members to stay up-to-date with everything that is going on. Everyone will get a safe wallet, best in class UX, and have all of the ENS ecosystem at their fingertips.
+ENS Accounts will become the fastest way new community members onboard into the ENS Ecosystem, and the easiest way for current community members to stay up-to-date with everything that is going on. Everyone will get a wallet designed for safety, best in class UX, and have all of the ENS ecosystem at their fingertips. We hope to make ENS Accounts so safe & the UX so fantastic, that it becomes the default onboarding solution for Ethereum.
 
 [![ENS Forum 1](https://discuss.ens.domains/uploads/db9688/optimized/2X/f/fcc3b5304e540214b5a82be804210abb69e00cb3_2_690x392.png)ENS Forum 11900×1080 165 KB](https://discuss.ens.domains/uploads/db9688/original/2X/f/fcc3b5304e540214b5a82be804210abb69e00cb3.png "ENS Forum 1")
 
 #### ENS Accounts will come in 2 forms:
 
 1. Subnames for account.eth ENS Accounts
-2. Self-serve & configurable .eth domain ENS Accounts which can onboard to subnames too!
+2. Self-serve & configurable .eth domain ENS Accounts!
 
 We will bring new utility to .eth domains, making them more than an identity, but also the easiest and safest way to navigate the web3 space. Our infrastructure will offer simple and secure ENS management, create easy onboarding to the entire ENS Ecosystem, and even generate additional revenue streams for the ENS DAO!
 
-## The Value ENS Accounts can bring
+## The Value of ENS Accounts
 
 * **Utility for .eth domains**: .eth domains can become a secure wallet interface and a branded onboarded portal for safely and easily onboarding friends and family to the parts of web3 you want them to experience.
-* **Community Management**: The ENS Accounts can be used to onboard anyone to the ENS ecosystem. They get a free account.eth subdomain, clear activations on the home page, and a launch pad to explore the ENS ecosystem safely.
-* **App Discovery**: ENS Accounts will be the schelling point for discovering the ENS ecosystem of dapps, like a beautified, web3 powered ENS linktree. Dapps like [EFP](https://efp.app/), [vision.io](http://vision.io), [ens.tools](https://ens.tools/?collections=&search=), [ENS Fairy](https://ensfairy.xyz/), [Namestone](https://namestone.com/) and more are often not seen by the wider community, We will change that.
-* **Intuitive Web3 UX**: No networks, no confusing popups, and of course, no 0x addresses; Dapps autoconnect making for the best ENS experience possible.
-* **Secure Storage**: Providing the safest environment for ENS users to engage with the ecosystem, preventing user errors, scams and more.
+* **Community Management**: The ENS Accounts will make ENS a destination as opposed to only a part of the crypto journey. It will be used to safely onboard anyone interested in the ENS ecosystem. They get a free account.eth subdomain, clear activations on the home page, and safe, simple tooling to explore the ENS ecosystem and beyond.
+* **App Discovery**: ENS Accounts will be the schelling point for discovering the ENS DAO and the ENS ecosystem of dapps, like a beautified, web3 powered ENS dapp store. Dapps like [EFP](https://efp.app/), [vision.io](http://vision.io), [ens.tools](https://ens.tools/?collections=&search=), [ENS Fairy](https://ensfairy.xyz/), [Namestone](https://namestone.com/) and more are often not seen by the wider community. We will change that.
+* **Intuitive Web3 UX**: No networks, no confusing popups, and of course, no 0x addresses; dapps autoconnect making for the best web3 user experience possible.
+* **Secure Storage**: Providing the safest environment for ENS users to engage with the ecosystem, preventing user errors, scams and more. We hope to be so safe and easy to use that Ethereum influencers often recommend it organically to their communities as a good first step to onboard into crypto.
 * **Revenue**: Our goal is to bring value AND tangible revenue to the DAO, we don’t see this as just a grant, we see it as a partnership agreement that can potentially garner a >3x ROI.
 
 [![ENS Forum 2](https://discuss.ens.domains/uploads/db9688/optimized/2X/c/c0c46a6c8f6527d7b43803c0531ebaeb79fdcc7f_2_690x392.jpeg)ENS Forum 21900×1080 262 KB](https://discuss.ens.domains/uploads/db9688/original/2X/c/c0c46a6c8f6527d7b43803c0531ebaeb79fdcc7f.jpeg "ENS Forum 2")
 
 ## Vision
 
-* ENS Accounts will help grow the ENS ecosystem, making it accessible to anyone, from shadowy super coders that want a quick and easy way to explore everything that ENS has to offer, to non-technical politicians that want an easy way to raise crypto donations for their campaign.
-* Existing .eth domain holders will benefit from increased utility by turning their domains into fully functional wallets, and onboarding portals.
-* ENS DAO will see new revenue opportunities through transaction fees, premium memberships, and sign-up fees
+* ENS Accounts will help grow the ENS ecosystem, making it accessible to anyone, from shadowy super coders that want a quick and easy way to explore everything that ENS has to offer, to non-technical users that want an easy and safe way to hold their crypto.
+* Existing .eth domain holders will benefit from increased utility by turning their domains into fully functional wallets.
+* ENS DAO will see new revenue opportunities through transaction fees, premium memberships, and sign-up fees.
 * The entire Ethereum ecosystem will have a safe way to navigate the web3 world, powered by ENS.
 
-## ENS Accounts explained in under 5 minutes
+## ENS Accounts explained in under 5 minutes (1.5x speed)
 
 ## Request
 
 * $300,000 per year
 * Yes we intend to apply for the 2 year stream, once we hit profitability, we will request to end it.
-* We will spend much more than this to build and operate this tech, but we believe in the business models we can create.
+* We will spend much more than this to build, operate and promote this product, but we believe in the business models we can create.
 
 ## Size of team and commitment:
 
 Unicorn.eth brings together a dedicated team of web3 veterans with complementary expertise in wallet technology, marketing, design, and development. Through our partnership with General Magic, we have access to 30+ additional developers, designers, and project managers to ensure successful delivery.
 
 * Griff Green (griff.eth) - Co-founder of Unicorn.eth, Giveth, rescue.money, General Magic, Dappnode & more. Led the recovery efforts around TheDAO, 1st Parity Multisig, and other hacks, and was early enough in ENS to snag unicorn.eth & account.eth ![:wink:](https://discuss.ens.domains/images/emoji/twitter/wink.png?v=12 ":wink:")
-* Gardner Loulan (glou.eth) - Co-founder of Unicorn.eth 3x Founder and ex-Head of Content at CUBE3 AI a web3 security company. Has extensive marketing expertise from notable brands including the WWE, Wall Street Journal, and Shaq and the only web3 builder I know once nominated for an Emmy.
+* Gardner Loulan (glou.eth) - Co-founder of Unicorn.eth 3x Founder and ex-Head of Content at CUBE3 AI a web3 security company. Has extensive marketing expertise from notable brands including the WWE, Wall Street Journal, and Shaq and the only Emmy award winning web3 builder I know.
 * Russell Castagnaro (rcastag.eth) - Co-founder of Unicorn.eth, ex-ETHDenver, SporkDAO board member, bringing 20+ years of e-commerce, consumer wallet & digital ID expertise. Built [MyColorado](https://mycolorado.state.co.us/) which serves over 1 million users as a digital ID that the police and government officials accept as legal ID.
 * Alex Griffiths (sillysausage.eth) - Head of Product. deeply experienced with consumer crypto as a former PM for Sweatcoin’s wallet onboarding millions of users to their first crypto experience.
 * Krati Jane (krati.eth) - CTO at General Magic with extensive expertise in Solidity, Rust, and mobile development. Previously led development of a gaming-focused account abstraction wallet.
@@ -75,7 +75,7 @@ Unicorn.eth emerged as a hackathon winner at Devconnect in Istanbul in late 2023
 
 ## Team Experience:
 
-We’ve been deep in web3 for years. I (Griff) have been working in Ethereum since 2015, founded countless projects and have been active in the ENS since even before its initial launch. Gardner brings deep brand understanding and marketing experience, Russell, Alex & Krati all bring unique and valuable wallet experience. Marko started his web3 journey at Consensys and now leads design at General Magic. We’ve already successfully launched for ETHDenver, creating 19,000+ ENS subdomains, and we have several other clients using our tech.
+We’ve been deep in web3 for years. I (Griff) have been working in Ethereum since 2015, founded countless projects and have been active in the ENS since even before its initial launch. Gardner brings deep brand understanding and marketing experience, Russell, Alex & Krati all bring unique and valuable wallet experience. Marko started his web3 journey at Consensys and now leads design as a co-founder of General Magic. We’ve already successfully launched for ETHDenver, creating 19,000+ ENS subdomains, and we have several other clients loving our infra.
 
 ### ENS Token Endorsement Requirement:
 
@@ -100,15 +100,16 @@ We have been advised to keep parts of our current product closed source, however
 
 # 4. Scope of Work & Budget
 
-### Initially Expected Scope:
+## Initially Expected Scope:
 
 #### NOTE: We must validate many assumptions by interviewing potential users and various ENS Stakeholders before committing to the following scope, however, we do expect it to follow these goals and assume our final product will only vary slightly.
 
 ## Goals:
 
-1. Onboard new and existing community members to the ENS Ecosystem
+1. Onboard new and existing community members to the ENS Ecosystem to discover ENS apps and dapps, as well as stay up to date with announcements, events and DAO votes.
 2. Create new utility for .eth domains
 3. Bring value AND revenue back into the DAO.
+4. Build a such a safe and fantastic user experience, that it becomes a popular onboarding tool for the Ethereum ecosystem itself.
 
 [![ENS Forum 3](https://discuss.ens.domains/uploads/db9688/optimized/2X/6/6599468e79a1d635c77b5493aaedbc5a599a6879_2_690x392.png)ENS Forum 31900×1080 288 KB](https://discuss.ens.domains/uploads/db9688/original/2X/6/6599468e79a1d635c77b5493aaedbc5a599a6879.png "ENS Forum 3")
 
@@ -121,11 +122,10 @@ We have been advised to keep parts of our current product closed source, however
 * Conduct community feedback loops.
 * Share revenue opportunities with ENS DAO, potential revenue streams could include:
   + Premium membership tiers to unlock paid features
-  + Swap fees
-  + Transaction fees
+    - e.g. Launching tokens, or NFTs.
   + Promotional sponsorships
   + And more
-* We would like to split all profits with ENS DAO 50/50 until we have returned $1M back to the DAO, and after that move to a 95/5 split where we retain the 95% of the profits in perpetuity. This gives us a strong incentive to make ENS Accounts one of the go to solutions in the space.
+* We would like to split all profits with ENS DAO 50/50 until we have returned $1M back to the DAO, and after that move to a 95/5 split where we retain the 95% of the profits in perpetuity. This gives us a strong incentive to make ENS Accounts the go to solution for onboarding in the Ethereum space.
 * We will pay the DAO quarterly, alongside a transparent accounting report.
 
 [![ENS Forum 4 - new community members onboard](https://discuss.ens.domains/uploads/db9688/optimized/2X/3/3cf5b3de59d467c8e14db8028f319187a29be47a_2_690x392.jpeg)ENS Forum 4 - new community members onboard1900×1080 167 KB](https://discuss.ens.domains/uploads/db9688/original/2X/3/3cf5b3de59d467c8e14db8028f319187a29be47a.jpeg "ENS Forum 4 - new community members onboard")
@@ -134,12 +134,9 @@ We have been advised to keep parts of our current product closed source, however
 
 * Enable .eth domain owners to create their own ENS Account at their .eth domain.
   + They can start with an account.eth subdomain and upgrade to their own .eth
-  + Or they can bring their own .eth domain and use our ENS Account creation wizard.
-* They will be able to customize their ENS Account, choose the applications, networks, tokens, etc that they include into their UI.
-* They will also be able to onboard their friends/family/followers with subdomains to their own customized ENS Account.
-  + By default, all ENS Accounts (account.eth subdomains and self-serve .eth domains and their subdomains) will have the ENS ecosystem apps installed, however the managers of the .eth domains will be able to remove these dapps if they wish from the UI
-* Managers of .eth domains will collect 70% of the revenue generated by the people they onboard, and can charge membership fees to their community. the other 30% will be collected by us and be part of our revenue split with ENS DAO.
-* We hope this revenue opportunity for ENS sub-communities can make ENS Accounts spread virally.
+  + Or they can bring their own .eth domain to start
+* With a premium membership, they will be able to customize their ENS Account, choose the applications, networks, tokens, etc that they include into their UI.
+  + By default, all ENS Accounts (account.eth subdomains and self-serve .eth domains and their subdomains) will have all of the ENS ecosystem apps installed, however these dapps can be hidden from the UI with a premium membership.
 
 ## C. Growth, Growth & more GROWTH!
 
@@ -175,8 +172,9 @@ Success would look like
 
 # 5. Past Achievements
 
+* Instigated ChainID 0 adding it to the CAIP-10 standard.
 * Launched for ETHDenver 2024, onboarding 19,000+ ENS subdomains.
-* Developed ChainID 0 for CAIP-10 standard.
+* In 2024, ETHDenver onboarding took an average of 18 minutes and only 23% were able to stake Spork and join the DAO, this year onboarding took 90 seconds and 100% of users staked Spork.
 * Delivered frictionless user experiences for ETHDenver attendees.
 * Maintained high user satisfaction through personalized onboarding.
 * Working with several other clients big and small on similar products.
@@ -200,7 +198,7 @@ But the real magic is the ecosystem UX! Not only do we put all the dapps a commu
 
 **Try it out! Go to the “SPORK Staking DApp” and watch it pop up in a new tab, autoconnect, and then try unstaking your SPORK.**
 
-Then tell me this isn’t the most magical UX you’ve seen for web3.
+## Then tell me this isn’t the most magical UX you’ve seen for web3.
 
 ---
 
@@ -250,6 +248,13 @@ I have the first cut of the video! I added it into the post directly!
 Posted at: 2025-03-31T22:11:52.355Z
 
 Thanks [@Griff](/u/griff)! ![:saluting_face:](https://discuss.ens.domains/images/emoji/twitter/saluting_face.png?v=12 ":saluting_face:")
+
+---
+
+# Post #5 by Griff
+Posted at: 2025-04-20T06:23:20.794Z
+
+Note: On 4/18 this application was edited to simplify the scope of work and on 4/19 I edited it again slightly and added a clip to the end of the video to clarify the revenue streams.
 
 ---
 
