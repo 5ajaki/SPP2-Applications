@@ -3,166 +3,207 @@ Posted at: 2025-03-24T17:31:18.535Z
 
 ## 1. Applicant Information
 
-1. **Team Name**: Lighthouse Labs
-2. **Website/Company Blog**: <https://lighthouse.cx/> / [Lighthouse Labs](https://mirror.xyz/lighthousegov.eth)
-3. **Entity ENS**: `lighthousegov.eth`
-4. **Primary Contact(s)**: Arnold Almeida, 1a35e1.eth. James MacWhyte, jkm.eth.
-5. **Company Overview**: We are an applied research lab with a mandate to improve the accessibility of on-chain governance in decentralised environments. We offer three services:
+1. Team Name: Lighthouse Labs
+2. Website/Company Blog: <https://lighthouse.cx/> / [Lighthouse Labs](https://mirror.xyz/lighthousegov.eth)
+3. Entity ENS Name.eth: lighthousegov.eth
+4. Primary Contact(s):  
+   
+   Arnold Almeida (1a35e1.eth)  
+   
+   James MacWhyte (jkm.eth)
+5. Company Overview: We are focused on designing original products to improve the accessibility of on-chain governance in decentralised environments. We currently offer three services:
+6. Lighthouse Governance: a native mobile governance client, offered free for end users as a public good. To date we have had over 2500 unique addresses connected to our client and delivered over 50k proposal notifications to end users.
+7. Lighthouse Dispatch: an enterprise messaging tool for on-chain orgs to better engage their participants.
+8. Signals: an open-source protocol currently under development, designed to surface community sentiment as a supplement to governance operations.
 
-* Lighthouse Governance, public good, native client free for end users.
-* Dispatch, an enterprise multi-faceted messaging tool for on-chain orgs.
-* Signals, an open-source emerging-ideation protocol to supplement governance.
+More details about our other achievements can be found below.
 
-6. **Requested Amount**: Requesting $400k for a one year stream
-7. **Team / Commitment**: Currently 2.5 FT resources, ready to expand to 4 if this proposal is successful. We commit to making the work outlined in this proposal our top priority for the duration of the agreement.
+6. Requested Amount: Requesting $300k for a one year stream
+7. Team / Commitment: Currently 2.5 FT resources, ready to expand to 3 if this proposal is successful. This project will be our top priority for the duration, and we do not have any conflicts on our internal roadmap.
 
 ---
 
 ## 2. Eligibility Confirmation
 
-1. **Company Age & Reputation**: We have been operating for ~29 months as a bootstrapped company.
-2. **Team Experience**
+1. Company Age & Reputation
 
-* We are the first to market with a native mobile app that supports multiple governance systems with attention to complex features, such as voting with Safe and native notifications.
-* Our work and experience indexing all the major DAOs across the EVM landscape has given us deep insight into operational inefficiencies we plan to address through our work.
-* In addition to native app development, we also are competent blockchain developers as evidenced by our Signals protocol (which won the Arbitrum x RnDAO hackathon), and our Snapshot x Safe integration which included a complicated mix of on- and off-chain voting.
+* We have been operating since early 2023 as a bootstrapped company.
 
-`Arnold, Founder/CTO`
+3. Team Experience
 
-* 15 years industry experience
-* Led teams up to 10 heads
-* Scaled orgs with headcount up to 150 at C level
-* Taken 10+ products to market from ideation
-* One exit, two public listings
+* We were the first to market with a native mobile app that supports multiple governance systems, giving attention to complex features such as multisig voting and on-chain comments. We’ve indexed all the major DAOs across the EVM landscape and gained a large amount of insight into the struggles they face, which now informs the direction of our work.
+* Arnold, Founder/CTO
+  
+  1. 15 years industry experience
+  2. Led teams up to 10 heads
+  3. Scaled orgs with headcount up to 150 at C level
+  4. Taken 10+ products to market from ideation
+  5. One exit, two public listings
+* James, CPO
+  
+  1. 12 years crypto startup experience
+  2. Early-stage Coinbase and Kraken
+  3. C-level at BRD, involved in 4 rounds of funding leading to one exit
+* Xaun, Head of Engineering
+  
+  1. 10 years digital experience
+  2. Led cross functional teams up to 8 heads
+  3. Digital Agency, Founder Experience
 
-`James, CPO`
+3. ENS Token Endorsement Requirement
 
-* 12 years crypto startup experience
-* Early-stage Coinbase and Kraken
-* C-level at BRD, involved in 4 rounds of funding leading to one exit
+* We have been informed that we do meet this requirement.
 
-`Xaun, Head of Engineering`
+4. OFAC Sanctions Compliance
 
-* 10 years digital experience
-* Led cross functional teams up to 8 heads
-* Digital Agency, Founder Experience
-
----
-
-3. **ENS Token Endorsement Requirement**
-
-No public endorsement as of yet. Please consider voting for us in the upcoming vote!
-
-4. **OFAC Sanctions Compliance**
-
-* We, *Lighthouse Labs*, confirm that neither our organization nor any of our employees, contractors, or executive leadership is located in, or a resident of, an OFAC-sanctioned country. We further confirm that none of our business resources are derived from or routed through any country or entity that is subject to sanctions imposed by the United States (OFAC) or equivalent regulatory bodies. We pledge to remain compliant with all applicable sanctions laws and will promptly notify the ENS DAO if our status changes.
+* We, [Lighthouse Labs], confirm that neither our organization nor any of our employees, contractors, or executive leadership is located in, or a resident of, an OFAC-sanctioned country. We further confirm that none of our business resources are derived from or routed through any country or entity that is subject to sanctions imposed by the United States (OFAC) or equivalent regulatory bodies. We pledge to remain compliant with all applicable sanctions laws and will promptly notify the ENS DAO if our status changes.
 * For avoidance of doubt, all employees currently reside in:
   1. United Kingdom
   2. Australia
 
-5. **Multi Year Stream Eligibility**
+5. Multi Year Stream Eligibility
 
-Not Applicable.
+* None
 
 ---
 
 ## 3. Open Source Commitment
 
-* Our governance client mobile app and Lighthouse Dispatch is currently closed-source. We simply do not have the resources to maintain an OS variant and want to be in a better capital position before taking on the work of preparing an open source release.
-* Our business model does require modules to be developed in conjunction with other protocols, and in those instances, we are more than happy to issue MIT licensed code for our work.
-* For Lighthouse Signals, an on-chain protocol, we adopted an AGPL to ensure forkers are unable to re-license works as proprietary.
-* Work we do for ENS will be open sourced where appropriate.
+Our core product, Lighthouse, is a free, native mobile app which is not currently open-source. However, we commit to building the work in this proposal as public, open-source resources which we will then integrate into our core product.
 
-Generally, we prefer AGPL primarily as it forces work to remain in the public domain. MIT code, for example, can be forked and made private.
-
----
+The Signals protocol is already open source, and will continue to be.
 
 ## 4. Scope of Work & Budget
 
-* Requested amount: $400,000
-* Description:
+## 4.1 Basic Scope of Work
 
-We propose to support ENS by adding ENS-specific features into the Lighthouse app, as well as leveraging our other products to improve the ENS governance ecosystem. For a detailed scope, please see the below spreadsheet which covers the projects we will commit to delivering over the course of the 1-year program.
+Total requested amount: $300k
 
-[docs.google.com](https://docs.google.com/spreadsheets/d/1g_GtWGJieDU3xRFRS73M8yR3ca6hqXBZ9vJZhouqapc/edit?usp=sharing)
+### Overview
 
-### [[ENS x Lighthouse] SPP2 commitments](https://docs.google.com/spreadsheets/d/1g_GtWGJieDU3xRFRS73M8yR3ca6hqXBZ9vJZhouqapc/edit?usp=sharing)
+For this proposal, we would like to focus on work that will deeply integrate ENS’s on-chain functionality into the Lighthouse app and make on-chain governance data easily and publicly accessible.
 
-This Sheet is private
+## Project 1: Integrating ENS into Lighthouse and offering public tools
 
-* KPIs / Success Metrics
-  + In addition to delivering the above, we will also maintain the below SLA:
-    - 99% uptime for using the Lighthouse app to connect to the Lighthouse service
-    - 99% success rate of in-app message delivery
-    - Parity with on-chain data sources with a maximum latency of 5 minutes
-    - Maintain feature parity between iPhone and Android (100% support for the 5 most recent iOS and Android major releases)
-* Budget:  
-  
-  $400K per year to cover development and infrastructure costs
+Budget: $150k
 
----
+Overview: We already require DAOs represented in Lighthouse to have an ENS configured, and we display end users’ ENS data throughout the app. We would like to expand on this support, by adding additional ENS functionality. We will make the below deliverables publicly available, and will also use them to add this additional functionality to the Lighthouse experience.
+
+Deliverable 1: We will create an open-source reference implementation of the following key ENS features for native mobile clients:
+
+* Register an ENS name
+* Renew an ENS name
+* Update ENS text records and other metadata
+* Delegate voting power to ENS user
+* Lookup and display an ENS user’s metadata
+
+With this, others will be able to easily integrate ENS functionality into their own react native apps.
+
+Deliverable 2: We will release an open-source indexer, designed to do the following:
+
+* Surface all of the important on-chain data related to the ENS ecosystem
+* Trigger notifications of upcoming expirations and other important events that users may want to be made aware of
+* Provide an index of all ENS delegates
+* Surface on-chain proposal metadata
+
+This software can be run locally to build an index of the above data items, allowing for quick lookups of requested data, either in an enterprise setting or for personal use.
+
+Deployment: In addition to providing more open-source resources that others can use in their own projects, we will integrate the above into our Lighthouse ecosystem, enabling the following features:
+
+* In-app ENS onboarding flow for new users
+* In-app notifications of upcoming expiration and important ENS-related situations for all app users who have an ENS registered
+* In-app customization of a user’s ENS profile, including control over how they appear in the Lighthouse app
+* In-app surfacing of ENS delegates, and easy delegation of voting power
+
+These features will make Lighthouse a much more powerful tool for ENS governance participation, but will also bring more activity and users to ENS and further solidify ENS’s reputation of being an on-chain representation of one’s identity.
+
+Measure of success:
+
+* Number of forks/stars of open-source repos
+* Number of new ENS names registered through Lighthouse
+* Number of ENS-related notifications delivered through Lighthouse
+* Number of votes facilitated on Lighthouse for both Governor and Snapshot systems
+
+## Signals Protocol development
+
+Budget: $150k
+
+Overview: In the lead up to the SPP2 vote, we witnessed weeks of debate about how to best distribute a $4.5M budget via a voting system that was not specifically designed to support the type of decision-making we are trying to undertake. The final solution required a lot of work and coordination between multiple service providers, and it was a great example of governance in action! However, we are now even more confident that the industry as a whole can use more nuanced tools for managing these types of decisions, and we believe the Signals Protocol could be one of those tools.
+
+Why Signals: We developed Signals specifically to surface sentiment within an on-chain community. Forum posts don’t always necessarily reflect the poster’s true intentions, and decisions made by voting alone can be heavily swayed by large token holders. Signals aims to solve these problems by allowing community members to temporarily lock up their governance tokens in support of initiatives, and the opportunity cost of these lockups will filter out weakly-held opinions. By giving greater weight to lockups that are committed to for a longer time, even small token holders can have their voice represented.
+
+We believe Signals could improve decision-making participation amongst DAO participants, and reduce the need for paid delegates and committees.
+
+Here’s how it works:
+
+1. A Signals “board” is created and configured for a particular DAO, specifying eligibility requirements, which tokens will be used, and other aspects.
+2. DAO members submit initiatives that they think are important for the community to get behind. These can be anything from vague concepts to detailed proposals. The DAO is free to decide what format is most useful to them.
+3. Other participants can lock up their governance tokens in support of the initiatives they agree with. Locking up tokens for a longer time is counted as a larger amount of support, allowing even small token holders to have an equal voice.
+4. Once an initiative has reached a preconfigured threshold of support, the DAO can officially “accept” the initiative which signals an acknowledgement that the community has reached alignment.
+5. When an initiative is accepted, all tokens are unlocked and returned to their owners. Unpopular initiatives will eventually expire and unlock as well, however the opportunity cost means users will only want to support initiatives they believe will have a strong chance of being accepted in a timely manner.
+
+Current state: Signals is currently in the PoC stage, having been built during a hackathon in which we won first place. We have a working prototype which includes the following features:
+
+* Basic factory contract: Users can deploy their own contracts.
+* Signals core functionality: users can submit initiatives and lock up tokens to provide support. Eligibility and other restrictions can be configured. Additional incentives can be contributed towards initiatives.
+* Web GUI: Full visibility of all initiatives and how much support and incentives they have received, including visualizations of how additional support may impact an initiative.
+
+Live demo: <https://signals.capstone.lighthouse.cx/>
+
+Deliverable: We will continue the next stage of protocol development, taking Signals from a hackathon proof-of-concept to a production-ready product. This includes:
+
+* Completion of the Signals smart contracts, including incentives accounting and management, weight calculation customization, and exposing all essential methods
+* Completion of the Signals factory contract, optimized for efficient deployments
+* Completion of and improvements to the reference Signal web app, which will allow full access to deploying new boards and interacting with existing ones
+* Gas optimization
+* The finalization of a protocol spec and relevant documentation
+* Preparation for a full code audit and pilot program
+
+Our goal will be to run up to 3 testnet pilot programs in collaboration with the DAO, and work closely with participants to improve the mechanism design with ENS DAO’s needs in mind.
+
+We intentionally chose to not include a mainnet deployment in our proposal, because of the amount of work required to get a new protocol ready to touch user assets. We have plans in place for a full code audit, after which we will be ready to run a mainnet pilot.
+
+Although there will be no obligation for ENS to adopt this protocol, we plan to suggest it as an option for SPP3 and will work towards making it fit for that purpose.
+
+Measure of success:
+
+* Number of ENS holders who participate in the Signals pilot program
+* Metrics from the pilot program final report
 
 ## 5. Past Achievements & Additional Information
 
-At Lighthouse Labs, we create more than voting software. We think deeply about the promise of tokenised systems and their potential impact as a technology.
+**Signals**
 
-[![](https://discuss.ens.domains/uploads/db9688/optimized/2X/2/2336841c10876b493893b609292607349f69204c_2_602x339.jpeg)1600×900 175 KB](https://discuss.ens.domains/uploads/db9688/original/2X/2/2336841c10876b493893b609292607349f69204c.jpeg)
+* Arbitrum x RnDAO Collabtech hackathon - 1st place winner
+* Uniswap Hooks Incubator - winner of Arbitrum track and Uniswap Foundation track
 
-Our team’s background is rooted in mainstream technology (high-traffic e-commerce and AI), being early adopters to Web3 technology (Bitcoin ATMs, Bitcoin Wallet Software) and experience in companies like Coinbase and Kraken.
+**Grants and recognition**
 
-We are on a mission to make governance and associated systems so easy to use that even non-crypto users can get involved. We strongly believe that ENS has the potential to serve as a critical component of this infrastructure, both through the ENS Protocol and how the ENS DAO conducts its operations.
+* Safe DAO grant for Safe x Snapshot integration
+* Optimism retrofunding recipient
+* Gitcoin recipient - recognized public good
 
-*Company History*
+**ENS contributions**
 
-* Nov 2022, Idea born.
-* May 2023, ETH Global - Lisbon hacker
-* July 2024, Deployed iOS and Android apps for voting on Snapshot and Governor systems.
-* Aug 2024, [Awarded SAFE DAO grant](https://snapshot.box/#/s:safe.eth/proposal/0x98c7041ac814c38d54f08ea115f7d44d78f5720029aa18ce0d52342acc7955df) to research and implement native voting.
-* Late 2024, Gitcoin and Optimism Retrofunding participant, Governance client recognized as a public good by both organizations.
-* Dec 2024, Signals won Arbitrum x RNDao collab tech hackathon.
-* Jan 2025, Currently participating in Uniswap Hooks Incubator for nuanced protocol development for Signals.
+*Supported ENS Snapshot + Governor*
 
-*Thought Leadership*
+Voting on ENS with the Lighthouse Governance Client supports both Snapshot and on-chain Governor. Users of Safe can also enjoy voting using their Safe on the ENS Snapshot space.
 
-* On Network Economies, <https://paragraph.xyz/@1a35e1/on-network-economies>
-* The Governance Stack, <https://paragraph.xyz/@1a35e1/the-governance-stack>
+*SPP2 Vote*
 
-*Appendix*
+In the lead up to the SPP2 vote, we have contributed to the shaping of the SPP2 program. We designed a custom interface in Lighthouse specifically for this vote, and pushed for making the voting data machine-readible and accessible. We open sourced the library we wrote for this project, and have designed it specifically so ENS and others can use it on other similar proposals in the future.
 
-* [Lighthouse Client DEMO](https://drive.google.com/file/d/1z-9E6Oi7zAIzYH_gY0MEoY8lKAUmrn2s/view?usp=sharing)
-* Signals Protocol, `https://github.com/0xLighthouse/signals`
-* 1st Place - Arbitrium x RnDAO Collabtech hackathon
-  + <https://x.com/RnDAO__/status/1856283556684640627>
-
-*Ecosystem affinity*
-
-* Safe
-  + OBRA grant recipient, [View Vote](https://snapshot.box/#/s:safe.eth/proposal/0x98c7041ac814c38d54f08ea115f7d44d78f5720029aa18ce0d52342acc7955df)
-  + Improving service availability. [View Post](https://forum.safe.global/t/safe-infra-handling-service-unavailability-a-dx-perspective/6326)
-* Alchemix,
-  + Exploring solution for renewing ENS with ALCX in-app
-* Optimism
-  + Retrofunding recipient, [View project](https://retropgfhub.com/explore/RetroPGF6/Lighthouse--Native-Governance/)
-  + Grants Analysis, [View project](https://retropgfhub.com/explore/RetroPGF6/Grant-Round-Analysis-S5R2/)
-* Gitcoin, [GG22](https://explorer.gitcoin.co/#/round/42161/608/164)
+* Github [GitHub - 0xLighthouse/snapshot-copeland-results](https://github.com/0xLighthouse/snapshot-copeland-results)
 
 ---
 
 ## 6. Video Introduction (≤ 5 minutes)
 
-[drive.google.com](https://drive.google.com/file/d/16hiJfBZFquWWJBy91J-PNUjeqYDQC784/view?usp=sharing)
-
-### [ens-spp-remastered.mp4](https://drive.google.com/file/d/16hiJfBZFquWWJBy91J-PNUjeqYDQC784/view?usp=sharing)
-
-Google Drive file.
-
----
+* [ens-spp-remastered.mp4 - Google Drive](https://drive.google.com/file/d/16hiJfBZFquWWJBy91J-PNUjeqYDQC784/view)
 
 ## 7. Conflict Of Interest Statement
 
-N/A
-
----
+None
 
 ---
 
@@ -294,6 +335,29 @@ Impact: As this is the most experimental portion of this proposal, impact may be
 Measure of success:
 
 * Number of ENS holders who participate in the Signals pilot program
+
+---
+
+# Post #5 by Arnold
+Posted at: 2025-04-26T14:48:59.121Z
+
+**[REVISON NOTES]**
+
+After experiencing the SPP2 process, both as a governance client provider and as an applicant, we have decided to reduce our proposal’s budget to focus add valuing in two key areas:
+
+* Refine ENS protocol availability and governance accessibility in our mobile clients
+* Focus on development of the new Signals protocol
+
+We believe both of these endeavours will be net positive contributions to the ENS community.
+
+---
+
+# Post #6 by daostrat.eth
+Posted at: 2025-04-26T14:57:25.705Z
+
+Thanks for the updated proposal and continued contribution [@Arnold](/u/arnold).
+
+I also endorse this application. Look forward to seeing you in the SPP2 vote.
 
 ---
 

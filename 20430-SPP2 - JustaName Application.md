@@ -198,18 +198,17 @@ The basic scope focuses on maintaining, enhancing, and expanding core JustaName 
    * **Identity-Powered Wallet Infrastructure:**  
      
      JustaName is building towards a future where businesses can issue ENS-powered identities that effortlessly function as self-custodial wallets. Initially, these identities will be issued offchain, allowing businesses immediate scalability and frictionless onboarding. Upon the launch of ENSv2 on Namechain, the focus will progressively shift toward fully decentralized, onchain issuance. Businesses will simply issue names, preconfigured with addresses across selected chains, transforming onboarding into an intuitive, identity-first experience. Users will interact intuitively with their digital identity, free from the complexities of managing wallets or keys. By integrating this process with our verification systems, we’re creating a holistic identity layer that simplifies adoption while preserving the core benefits of self-custody and user control.
-   
-   Components: The system integrates **ENS** as the foundational identity layer, with **DFNS** serving as the Key Management System (KMS). On top of this, a **smart contract account** architecture enables advanced functionality such as \*\*\*\*batch transactions. It leverages **EIP-7702** for delegated execution and **EIP-4337** for gas sponsorship, utilizing existing infrastructure.
-   
-   **Why is this valuable to ENS?**  
-   
-   This approach positions JustaName to broadly appeal to any company worldwide by significantly lowering the barriers for adopting ENS technology. It allows businesses—even those without Web3 expertise—to issue and manage digital identities with minimal friction, thus making ENS accessible and relevant across traditional and emerging industries. Essentially, it opens the door for global, widespread distribution of ENS-based technology.
-   
+     
+     **Components**: The system integrates **ENS** as the foundational identity layer, with **DFNS** serving as the Key Management System (KMS). On top of this, a **smart contract account** architecture enables advanced functionality such as batch transactions. It leverages **EIP-7702** for delegated execution and **EIP-4337** for gas sponsorship, utilizing existing infrastructure.
+     
+     **Why is this valuable to ENS?**  
+     
+     This approach positions JustaName to broadly appeal to any company worldwide by significantly lowering the barriers for adopting ENS technology. It allows businesses—even those without Web3 expertise—to issue and manage digital identities with minimal friction, thus making ENS accessible and relevant across traditional and emerging industries. Essentially, it opens the door for global, widespread distribution of ENS-based technology.
    * **Deep Data Analytics:** Deliver advanced insights for workspace owners by harnessing onchain data from ENS profiles, issued subnames, and verification records. Our analytics suite helps organizations understand engagement patterns and measure adoption across segments, transforming blockchain data into business intelligence. This data-driven approach supports strategic decision-making and enhances personalized engagement for companies while respecting user privacy.
-   
-   **Why is this valuable to ENS?**  
-   
-   By providing organizations with measurable engagement patterns and adoption metrics derived from ENS profiles, analytics position ENS as a strategic asset rather than just a technical solution. This transforms ENS into essential infrastructure for businesses, deepens long-term organizational commitment, and accelerates ecosystem growth by demonstrating practical, real-world value and fostering network effects across diverse sectors.
+     
+     **Why is this valuable to ENS?**  
+     
+     By providing organizations with measurable engagement patterns and adoption metrics derived from ENS profiles, analytics position ENS as a strategic asset rather than just a technical solution. This transforms ENS into essential infrastructure for businesses, deepens long-term organizational commitment, and accelerates ecosystem growth by demonstrating practical, real-world value and fostering network effects across diverse sectors.
 4. **Enterprise Onboarding:**
    
    * Actively onboard enterprises and notable Web3 brands for ENS integration.
@@ -219,15 +218,16 @@ The basic scope focuses on maintaining, enhancing, and expanding core JustaName 
 **KPIs / Success Metrics:**
 
 1. **Product Development:**
+   
    * Quarterly release of significant platform improvements.
    * Infrastructure uptime >99.9% with regular security audits.
    * Launch at least 3 ENS-focused public goods.
    * Support EVM chains into launching their ENS subdomains (similar to base.eth).
 2. **ENS Ecosystem Adoption:**
+   
    * 10,000 subnames issued by May 2025; target 100,000 subnames by EOY 2025.
    * Manage 300+ active second-level ENS domains by end of year.
-
-**3. Enterprise Integration:**
+3. **Enterprise Integration:**
 
 * Onboard at least 1 prominent Web3 brand per quarter.
 * Engage at least 5 significant enterprises (1M+ user potential or recognized legacy brands).
@@ -248,7 +248,7 @@ JustaName has built a robust technical foundation that places us at the forefron
 
 We’ve engineered the most sophisticated, secure, and high-performant infrastructure specifically designed for off-chain issuance at scale. Our architecture comprises of eight specialized microservices communicating through a centralized Kafka event streaming system, with a Kong Gateway intelligently routing external requests. Built on Domain-Driven Design principles and an Event-Driven approach, this infrastructure ensures exceptional scalability, fault tolerance, and maintainability.
 
-To ensure transparency and decentralization of identity state, we integrate OrbisDB \*\*\*\*on the \*\*\*\*Ceramic Network \*\*\*\*for publishing subname events—creating a tamper-resistant, queryable log of offchain identity activity. Our system runs within an AWS Virtual Private Cloud, leveraging Kubernetes for orchestration, with integrated security services ensuring controlled access across the platform. This comprehensive approach includes a rigorous testing pipeline and the LGTM monitoring stack for real-time performance insights, guaranteeing reliability, and security for even the most demanding enterprise use cases.
+To ensure transparency and decentralization of identity state, we integrate OrbisDB on the Ceramic Network for publishing subname events—creating a tamper-resistant, queryable log of offchain identity activity. Our system runs within an AWS Virtual Private Cloud, leveraging Kubernetes for orchestration, with integrated security services ensuring controlled access across the platform. This comprehensive approach includes a rigorous testing pipeline and the LGTM monitoring stack for real-time performance insights, guaranteeing reliability, and security for even the most demanding enterprise use cases.
 
 [Expanded Technical Deep Dive](https://www.notion.so/Expanded-Technical-Deep-Dive-1b2137310f71804da9ece303c7b687d7?pvs=21)
 
@@ -273,7 +273,7 @@ To ensure transparency and decentralization of identity state, we integrate Orbi
 
 As part of our public goods contributions, we developed [ENSvolution](https://www.ensvolution.xyz/), an interactive tool visualizing the evolution of ENS profiles over time. This platform transforms complex onchain data into an intuitive, chronological view that helps users understand how ENS identities develop.
 
-Key features include:
+**Key features include:**
 
 * Interactive timeline with color-coded change tracking (additions, modifications, deletions)
 * Visualization of text records, address records, and resolver contract changes
@@ -307,6 +307,23 @@ Good luck in SPP2!
 ---
 
 *Metagov Stewards*
+
+---
+
+# Post #3 by JustRyan
+Posted at: 2025-04-25T13:38:54.615Z
+
+Hello.  
+
+Just made a few edits to the proposal in light of recent developments:  
+
+(2):
+
+* consolidated everything under one single scope of work and budget.
+* minor narrative / messaging tweaks.
+* addition of our latest release (ENSvolution)
+
+(3):
 
 ---
 

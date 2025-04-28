@@ -113,6 +113,18 @@ On average, 70% of the ENS DAO voter community uses the Tally platform to partic
     [![](https://discuss.ens.domains/uploads/db9688/optimized/2X/2/23d740b6d8d0b76de1cc8b12934446bff1c60f6a_2_275x263.png)904×866 54.7 KB](https://discuss.ens.domains/uploads/db9688/original/2X/2/23d740b6d8d0b76de1cc8b12934446bff1c60f6a.png)
 * Enhance support for delegates operating with Safes by enabling Sign in with Safe as well as enhanced support for non-standard multisig setups such as nested multisigs.
 * Maintain an independent RSS feed mechanism that exposes a running feed of critical DAO smart contract operations. This feed simplifies the process for third party builders and AI tools to monitor and integrate with the ENS governance operations.
+* Build frontend to support any further SPP voting algorithms going forward.
+  + Let voters rank multiple options (like service providers or budget asks) directly in the Tally interface
+  + Display clear results for ranked-choice votes, including pairwise matchups and Copeland scores
+  + Group related options together (like basic and extended budgets) to avoid vote-splitting
+  + Read proposal metadata to properly format and display ballot options
+  + Ensure the Tally UI remains simple to use even for complex multi-option votes
+* Integrate [Karma’s delegate score and contributor metrics](https://www.karmahq.xyz/dao/delegates/ens) into Tally’s delegate page so token holders and DAO stakeholders have access to holistic participation information. Karma will provide the following via their API:
+  + Onchain and Snapshot voting pct, delegator count, voting power, list of delegators
+  + Stats for different timeframes: Lifetime, last 30 days, last 90 days etc
+  + Various sorting criteria (score, voting power, voting pct, forum activity)
+  + Onchain endorsements by peer delegates
+  + **[![](https://discuss.ens.domains/uploads/db9688/optimized/2X/9/9ab74b8aff2531249faed65f58e8b1501d820c85_2_485x401.png)1366×1133 113 KB](https://discuss.ens.domains/uploads/db9688/original/2X/9/9ab74b8aff2531249faed65f58e8b1501d820c85.png)**
 
 **Goal 2: Proliferate the ENS primitive and tools across the on-chain ecosystem**  
 
@@ -123,12 +135,12 @@ As the largest governance platform in the Ethereum ecosystem, Tally has network 
   [![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/a/aac802671fe3b8a126600383e96eeb41b67205cf_2_690x340.png)image2732×1348 231 KB](https://discuss.ens.domains/uploads/db9688/original/2X/a/aac802671fe3b8a126600383e96eeb41b67205cf.png "image")
 * Enhance ENS resolution on Tally by indexing offchain ENS names. Today, Tally indexes names from the core-onchain registry. This improvement would index any ENS name regardless of where it is and show it on that user’s Tally profile (eg: name.cb.id). This enhances the distribution and utility of the ENS protocol.
 * Provide ENS Namechain support. Tally is a multi-network platform that supports 30+ layers 2s and blockchains. Tally will offer priority support for Namechain on the Tally platform, allowing users to build and deploy organizations on the Tally platform that are distributed on the Namechain network.
-
-**The following are products we are excited to explore but still need to do more work to validate their feasibility and demand. As such, they are not explicitly included in the SoW.**
-
 * Automatic ENS names: Over 250,000 users have joined DAO’s directly through the Tally governance product. Tally is exploring allowing for teams launching on Tally to directly distribute ENS names directly in their launch flow.  
   
   [![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/d/d4885d07a742cdc2e0628046da1161f3891efe4e_2_333x500.png)image790×1184 39 KB](https://discuss.ens.domains/uploads/db9688/original/2X/d/d4885d07a742cdc2e0628046da1161f3891efe4e.png "image")
+
+**The following are products we are excited to explore but still need to do more work to validate their feasibility and demand so that we can prioritize what brings the most value to the ENS DAO, protocol and ecosystem.s As such, they are not explicitly included in the SoW but we intend to prioritize research into each of these features and services as part of this proposal**
+
 * Deployment build verification: In light of the SAFE hack, Tally has been thinking deeply about how to increase security of the build pipeline of its front end tools. To this end, we are considering a trust verification system to help allow builders to verify the authenticity of the Tally application powered by ENS. This tool could drive significant improvement in safety to ENS and the wider Ethereum ecosystem.  
   
   [![](https://discuss.ens.domains/uploads/db9688/original/2X/9/9dc573fb7da70cc41feb48c776ad51d20fdff735.png)498×112 3.38 KB](https://discuss.ens.domains/uploads/db9688/original/2X/9/9dc573fb7da70cc41feb48c776ad51d20fdff735.png)  

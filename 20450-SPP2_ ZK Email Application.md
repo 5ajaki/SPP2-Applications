@@ -76,14 +76,10 @@ Proposed Amount: $400K
 
 1. Directly being able to pay social media accounts on ENS: You can pay accounts that *havent signed up yet* and let them claim that money once they claim. We think this can drive significant adoption of ENS to new users who want to use ENS for things like RetroPGF or even just tipping/payments on those platforms.
 2. KYC Verifications on Resolvers: Allow resolvers to link to KYCs that users have done on other platforms and register verification of uniqueness.
-3. Gas Optimization: If gas is a bottleneck (which it will likely be on L1), recursive proofs can decrease proof overhead in both execution and calldata, by combining many proofs into one. We can do this via adding recursive aggregation with i.e. Nebra, and using World’s optimized on-chain verifiers.
-4. Faster User Experience: Optimize proof generation for faster client-side verification times with production-ready Noir implementations, 5-10x speeding up proof calculations on a user’s device from 5 minutes to 1 minute. Client side proofs would mean information never has to leave a user’s device.
-5. DNSSEC Verification: If we finish all of the above, we can also build a ZK verifier for DNSSEC calculations that reduces gas cost on mainnet from 1-2M with ENS’s verifier, to ~250K with a single proof.
-6. Making DAO Voting with Safes Easier: We know that [one of Agora’s goals](https://discuss.ens.domains/t/spp2-agora-application/20443) as posited by delegates was to make it easier for Safe Wallets to vote on proposals. Our [ability to let email addresses approve Safe transactions](https://zk.email/blog/2fa) can let anyone approve any proposal with a single email reply.
-7. Increasing Decentralization: We want to work on an AVS to double check the DNS keys that let us verify email public keys, allow anyone to contribute to trusted setups for all the circuits if needed, IPFS backups of our frontend + ENS resolvers for that, backups of all of our code/zkeys onto IPFS and similar sources, and contract upgrades in a more decentralized fashion. We want to ensure ENS’s system is fully secure even if ZK Email teammates are compromised.
-8. Audits: If this starts securing economic value, we would want to complete an audit of the relevant code.
+3. Faster User Experience: Optimize proof generation for faster client-side verification times with production-ready Noir implementations, 5-10x speeding up proof calculations on a user’s device from 5 minutes to 1 minute. Client side proofs would mean information never has to leave a user’s device.
+4. Increasing Decentralization: We want to allow IPFS backups of our frontend + ENS resolvers for that, backups of all of our code/zkeys onto IPFS and similar sources, and contract upgrades in a more decentralized fashion. We want to ensure ENS’s system is fully secure even if ZK Email teammates are compromised.
 
-We expect the AVS to take a month to build and test, gas optimization to take a month to build and test, and DNSSEC verification to take 2 months to build and test even with a ZKVM on the server side (including tooling around fetching upgrades and nonstandard CAs). An audit will take 2 months or so. If this extended scope is approved, the full scope of work including the basic scope will take 1 year. While we have proposed 8 things here, we would discuss with the DAO which ones are the top priorities and focus on those, likely ending up shipping only 6.
+We expect the decentralization to take a month to build and test, social media integration to take a month to build and test, and Noir verification to take 2 months to build and test. (including tooling around fetching upgrades and nonstandard CAs). The full scope of work including the basic scope will take 1 year. While we have proposed 4 things here, we would discuss with the DAO which ones are the top priorities and focus on those, likely ending up shipping only 3. If time permits, we can ship DNSSEC or Email based DAO voting.
 
 Proposed Amount: $800K
 
@@ -205,6 +201,13 @@ Posted at: 2025-04-04T16:56:22.499Z
 I’ve believed in programmable cryptography being the next step for ENS to be the center of identity since 2021. Back then, it was largely a pipe dream and teams preceding ZK-email were building circuits to prove simple things like keccak256. It’s amazing to see the technology progress to the point where it can actually be used in applications such as ENS. If this can all be proved on a mobile device and client-side, which from zk-email’s proposal is highly likely I’d love to see this powering ENS resolvers for fully permissionless verified records.
 
 I am happy to endorse ZK email for SPP2
+
+---
+
+# Post #8 by Yush
+Posted at: 2025-04-26T18:49:02.195Z
+
+Having discussed with a few ENS stakeholders, we decided to edit the extended scope to remove extraneous deliverables (like Agora voting with Safes and email), and focus on the most important things like improving the core zk email name system itself. There are now 4 items in the extended scope.
 
 ---
 

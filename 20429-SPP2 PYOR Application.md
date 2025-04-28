@@ -308,3 +308,45 @@ Good luck running for SPP2!
 
 ---
 
+# Post #3 by daostrat.eth
+Posted at: 2025-04-26T14:59:32.317Z
+
+![](https://discuss.ens.domains/user_avatar/discuss.ens.domains/daostrat.eth/48/11349_2.png) daostrat.eth:
+> MetaGov will also monitor the snapshot you have posted.
+
+Metagov has decided to blanket endorse the applications.
+
+Formally, *I endorse PYOR’s SPP2 application.*
+
+---
+
+# Post #4 by PYOR
+Posted at: 2025-04-27T16:46:11.705Z
+
+Thanks for the endorsement. Could you confirm the details of the voting cycle for this SPP Season (start date, end date, voting process, etc.)?
+
+---
+
+# Post #5 by daostrat.eth
+Posted at: 2025-04-27T20:02:50.772Z
+
+Yes ser,
+
+You can follow [this thread](https://discuss.ens.domains/t/6-5-amendment-metagovs-facilitation-plan-for-spp2/20638) for updates.
+
+We will have clarity on the testing window for the *6.5 Amended voting algorithm* tomorrow from [@alextnetto.eth](/u/alextnetto.eth).
+
+This will determine the voting start dates of either 4/30 || 5/7
+
+![](https://discuss.ens.domains/user_avatar/discuss.ens.domains/daostrat.eth/48/11349_2.png)[[6.5 Amendment] MetaGov's Facilitation plan for SPP2](https://discuss.ens.domains/t/6-5-amendment-metagovs-facilitation-plan-for-spp2/20638/1)
+> *(All dates are in UTC)*
+> 
+> | Task | Start | End | Days |
+> | --- | --- | --- | --- |
+> | Update window for current applications | now | 4/27/25 | 5‑6 |
+> | Front‑end dev & testing | now | 4/28/25 | 6‑7 |
+> | SPP2 Voting | 4/30/25 (alt. 5/7/25) | 5/5/25 (alt. 5/13/25) | 5 |
+> | SPP2 Voting Review | 5/5/25 (alt. 5/13/25) | 5/10/25 (alt. 5/18/25) | 5 |
+
+---
+

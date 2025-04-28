@@ -248,3 +248,15 @@ Thank you ser ![:saluting_face:](https://discuss.ens.domains/images/emoji/twitte
 
 ---
 
+# Post #5 by daostrat.eth
+Posted at: 2025-04-26T15:00:58.579Z
+
+![](https://discuss.ens.domains/user_avatar/discuss.ens.domains/daostrat.eth/48/11349_2.png) daostrat.eth:
+> MetaGov will include you in the group endorsement snapshot on April 1;
+
+Metagov has decided to blanket endorse the remaining applications.
+
+Formally, *I endorse Wildcard.xyz’s SPP2 application!*
+
+---
+

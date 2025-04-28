@@ -11,7 +11,7 @@ Posted at: 2025-04-01T05:10:10.449Z
 
 [NameHash Labs](https://namehashlabs.org) is an existing ENS Service Provider with a team of 14. We are seeking a $1.1M budget from the ENS DAO to deliver key infrastructure for the ENS ecosystem.
 
-This includes 8 substantial ENS infrastructure engineering projects, to include ENSNode, ENSAdmin, NameGraph, and NameAI to address urgent ENS infrastructure needs:
+This includes substantial ENS infrastructure engineering projects, to include ENSNode, ENSAdmin, ENSv2 Referral Programs, ENS TokenScope, and ENSAwards to address urgent ENS infrastructure needs:
 
 **1. Close critical ENS infrastructure gaps:**
 
@@ -29,11 +29,9 @@ We are engineering radically accelerated resolution of most ENS queries. ENSNode
 
 We are executing a number of infrastructure-level strategies to help boost and restabilize ENS DAO revenues to ensure the indefinite continuation of ENS protocol development.
 
-With your approval of our $1.3M total “Extended Scope” budget (please vote us to be your #1 ranked proposal ![:pray:](https://discuss.ens.domains/images/emoji/twitter/pray.png?v=12 ":pray:")), ENS will additionally gain solutions for other urgent needs, including:
-
 **5. Guarantee the creation of an ENS Referral Program to promote the launch of ENSv2 and Namechain with a minimum budget of $50k.**
 
-The guarantee is simple, if our “Extended Scope” budget is approved and if the ENS DAO still has not launched a different ENS Referral Program prior to the launch of ENSv2, then upon the launch of ENSv2, we will deploy our own permissionless ENSv2 Referral Program contracts. We will fund these contracts ourselves with $50k to provide revenue sharing rewards for registrar apps that refer a minimum number of their users to make .eth registrations and renewals.
+The guarantee is simple, if our “Basic Scope” budget is approved and if the ENS DAO still has not launched a different ENS Referral Program prior to the launch of ENSv2, then upon the launch of ENSv2, we will deploy our own permissionless ENSv2 Referral Program contracts. We will fund these contracts ourselves with $50k to provide revenue sharing rewards for registrar apps that refer a minimum number of their users to make .eth registrations and renewals.
 
 We will also invest in the creation and distribution of marketing materials, community outreach, and related “microsites” for the ENS Referral Program.
 
@@ -43,7 +41,17 @@ We will deliver infrastructure for ENS registrar apps to easily identify that a 
 
 Relatedly, we will also deliver ENS infrastructure to trace the relationship from an ENS name (including tokenized DNS names) to the specific NFT that tokenizes the ownership of the name.
 
-ENS TokenScope closes a key vector of adoption risks for ENS vs. Namechain’s highly VC funded competitors, and supports the attraction of new DNS TLDs from the upcoming ICANN auctions to tokenize their names on Namechain.
+ENS TokenScope closes a key vector of adoption risks for ENS vs. Namechain’s competitors with high VC funding, and supports the attraction of new DNS TLDs from the upcoming ICANN auctions to tokenize their names on Namechain.
+
+**7. Incentivize builders to deliver the best possible ENS integrations through ENSAwards:**
+
+Our team will build and promote ENSAwards: a recognition platform that celebrates excellence in ENS integrations. By systematically evaluating how well different wallets and web3 apps implement ENS features – including support for nuanced edge cases and full standards compliance – ENSAwards will highlight the products that offer users the best ENS experiences. Through detailed rankings, audits, and certifications, ENSAwards will empower consumers to make informed decisions about which apps to trust, while providing builders clear, actionable feedback on how to improve their ENS integrations and stand out in a competitive landscape.
+
+ENSAwards raises the quality baseline for ENS integrations and incentivizes innovation and thoroughness. By making excellence visible and publicly rewarding the most dedicated builders, ENSAwards fosters a healthy competition among companies to prioritize best-in-class ENS functionality and user experience.
+
+---
+
+---
 
 Our team of 14 includes highly accomplished senior engineers and is delivering big for ENS.
 
@@ -159,6 +167,10 @@ Growing subnames in general is good for ENS, but only direct subnames of .eth pr
 
 ![:star:](https://discuss.ens.domains/images/emoji/twitter/star.png?v=12 ":star:") We need .eth registrations and renewals to be healthy and growing (or at least stable)!
 
+[![ENS - Revenue Drop](https://discuss.ens.domains/uploads/db9688/optimized/2X/8/8c7d24e4585590eabcb10c39c8da4ec8fd7681aa_2_690x325.png)ENS - Revenue Drop1233×582 70.9 KB](https://discuss.ens.domains/uploads/db9688/original/2X/8/8c7d24e4585590eabcb10c39c8da4ec8fd7681aa.png "ENS - Revenue Drop")
+
+**UPDATE: The [Q1 2025 Revenue Report](https://discuss.ens.domains/t/ens-revenue-reports/20577/2) posted by [@Limes](/u/limes) shows a drop in Registration Revenue for the three months ended March 31 of $6,404,897 in 2024 to $3,468,908. This is a HUGE, alarming, and unsustainable drop. Action is needed for programs that will restore sustainable ENS DAO revenues.**
+
 ### 0.2.3. Developer Enablement for ENS Integrations
 
 ENS provides powerful capabilities, but some developers experience challenges with integrations.
@@ -171,17 +183,21 @@ A number of operations in the ENS protocol require special care to implement cor
 
 ## 0.3. Strategy Overview
 
-The following table outlines the relationship between ENS’s 3 key needs, our solutions, and funding of the basic vs extended proposal scope:
+The following table outlines the relationship between ENS’s 3 key needs, our solutions, and funding priorities of the “basic” proposal scope:
 
-[![Strategy Overview](https://discuss.ens.domains/uploads/db9688/optimized/2X/4/408efe0e282c91ca57cf351b3a6773b205bbc267_2_690x401.png)Strategy Overview1806×1052 95.5 KB](https://discuss.ens.domains/uploads/db9688/original/2X/4/408efe0e282c91ca57cf351b3a6773b205bbc267.png "Strategy Overview")
+[![Strategy Overview](https://discuss.ens.domains/uploads/db9688/optimized/2X/a/acb4b5b41e02db8263fc1b759852ff3a42fa111c_2_690x407.png)Strategy Overview1800×1064 95.7 KB](https://discuss.ens.domains/uploads/db9688/original/2X/a/acb4b5b41e02db8263fc1b759852ff3a42fa111c.png "Strategy Overview")
+
+See section 4 below for full details on the proposed scope of work. Projects allocated into “Standby Mode” in the table above are outside the focus of this proposal. They will remain available in a minimal maintenance mode through the duration of SPP2. This approach allows us to preserve their availability while concentrating resources on higher-priority initiatives.
 
 ## 0.4. Our ENS Infrastructure Solutions
 
-To service ENS’s 3 key needs, our team is building 8 key ENS infrastructure projects:
+To service ENS’s 3 key needs, our team is building these key ENS infrastructure projects:
 
-[![8 Key ENS Infrastructure Solutions](https://discuss.ens.domains/uploads/db9688/optimized/2X/3/39c48c273c75c9d6ba6ade55690388197efa7e3e_2_690x388.jpeg)8 Key ENS Infrastructure Solutions3840×2160 780 KB](https://discuss.ens.domains/uploads/db9688/original/2X/3/39c48c273c75c9d6ba6ade55690388197efa7e3e.jpeg "8 Key ENS Infrastructure Solutions")
+[![Key ENS Infrastructure Solutions](https://discuss.ens.domains/uploads/db9688/optimized/2X/1/18c45f205da1584509a6cae4907d7d7e4ce5cc97_2_690x388.png)Key ENS Infrastructure Solutions960×540 146 KB](https://discuss.ens.domains/uploads/db9688/original/2X/1/18c45f205da1584509a6cae4907d7d7e4ce5cc97.png "Key ENS Infrastructure Solutions")
 
-These eight ENS infrastructure projects work together to address the critical needs of ENSv2, enhance DAO financial stability through increased registrations and renewals, and support developers to build more big ENS integrations.
+**UPDATED: +2 for ENS TokenScope + ENSAwards. See below for details!**
+
+These ENS infrastructure projects work together to address the critical needs of ENSv2, enhance DAO financial stability through increased registrations and renewals, and support developers to build more big ENS integrations.
 
 ### 0.4.1. ENSNode
 
@@ -301,6 +317,10 @@ These eight ENS infrastructure projects work together to address the critical ne
   + Compatible with the ENSv2 contracts ENS Labs has open sourced.
 * Additional Links
   + [GitHub](https://github.com/namehash/ens-v2-referral-programs)
+
+[![Referral Rewards](https://discuss.ens.domains/uploads/db9688/optimized/2X/e/ec4c5affea3ab4efc99910cacfbfb559298d5a23_2_333x500.jpeg)Referral Rewards1024×1536 374 KB](https://discuss.ens.domains/uploads/db9688/original/2X/e/ec4c5affea3ab4efc99910cacfbfb559298d5a23.jpeg "Referral Rewards")
+
+**UPDATE: Our “basic” proposal is now guaranteeing $50k funding for ENSv2 Referral Programs upon the launch of ENSv2! This will be a powerful marketing promotion to grow integrations and excitement in the run up to ENSv2 launch.**
 
 ### 0.4.5. NameGraph
 
@@ -426,6 +446,55 @@ These eight ENS infrastructure projects work together to address the critical ne
   + [namekit-react](https://github.com/namehash/namekit/blob/main/packages/namekit-react)
   + [Namekit-contracts](https://github.com/namehash/namekit-contracts)
   + [Alpha](https://alpha.namekit.io/)
+
+### 0.4.9. ENS TokenScope
+
+[![ENS TokenScope](https://discuss.ens.domains/uploads/db9688/optimized/2X/c/c49d1b420f9af8e973da18124fb2ddab55dc6958_2_690x278.png)ENS TokenScope1170×472 54.4 KB](https://discuss.ens.domains/uploads/db9688/original/2X/c/c49d1b420f9af8e973da18124fb2ddab55dc6958.png "ENS TokenScope")
+
+* Product Webpage
+  
+  + <https://ensnode.io> *(ENS TokenScope is planned to become an optional ENSNode plugin)*
+* The Problem (Infrastructure Need)
+  
+  + For years, most ENS aftermarkets have relied on [Reservoir](https://reservoir.tools/) for critical data about ENS name sales, offers, and listings.
+  + On April 15 Reservoir announced they are sunsetting these services in just a few months on October 15th.
+  + Reservoir has suggested ENS aftermarkets transition to [Sequence](https://sequence.xyz/) or [Alchemy](https://www.alchemy.com/) as a replacement. However these NFT APIs are completely unsuitable for replacing the infrastructure Reservoir has historically provided.
+  + Replacing Reservoir is a very complex engineering task for ENS aftermarkets.
+  + Without a Reservoir replacement, most ENS aftermarkets will no longer be able to function and will have to shut down.
+  + The shutdown of most ENS aftermarkets should be expected to trigger a cascade of “domino effects” that would ultimately cause significant harm to the ENS DAO:
+    - Shutting down ENS aftermarkets will collapse ENS aftermarket transaction volumes.
+    - Collapsing ENS aftermarket transaction volumes will crash the speculative value of .eth names.
+    - Crashing the speculative value of .eth names will terminate significant volumes of .eth registrations / renewals. This includes many .eth names that provide extraordinary revenue to the ENS DAO, including 3 or 4 character names, or recently released names with a temporary premium.
+    - Terminating those speculative registrations / renewals will drastically reduce ENS DAO revenues that are already dropping at an alarming rate.
+* The Solution (Infrastructure Summary)
+  
+  + ENS TokenScope will provide the core infrastructure required for ENS aftermarkets. This helps to prevent existing ENS aftermarkets from shutting down and also makes it easy for developers to offer ENS aftermarket functionality into their own ENS registrar apps.
+  + Key capabilities will include:
+    - Mappings from ENS names to their ownership controlling tokens.
+    - Historical sales data for tokenized ENS names.
+    - A common repository of (onchain + offchain) offer and listing data for tokenized ENS names that is shared across any / all ENS aftermarkets.
+    - Unified queries of primary market and aftermarket state for tokenized ENS names.
+* Strategic Goals
+  
+  + DAO Financial Stability
+  + Developer Enablement
+
+### 0.4.10. ENSAwards
+
+[![ENSAwards](https://discuss.ens.domains/uploads/db9688/optimized/2X/b/b95b35475c83eeaf74d16fd0789f4a77039d2065_2_500x500.jpeg)ENSAwards1024×1024 271 KB](https://discuss.ens.domains/uploads/db9688/original/2X/b/b95b35475c83eeaf74d16fd0789f4a77039d2065.jpeg "ENSAwards")
+
+* Product Webpage
+  
+  + <https://ensawards.com> *(under development - landing page not yet launched!)*
+* Solution Summary
+  
+  + ENSAwards will incentivize builders to deliver the best possible ENS integrations.
+  + Our team will build and promote ENSAwards: a recognition platform that celebrates excellence in ENS integrations. By systematically evaluating how well different wallets and web3 apps implement ENS features – including support for nuanced edge cases and full standards compliance – ENSAwards will highlight the products that offer users the best ENS experiences. Through detailed rankings, audits, and certifications, ENSAwards will empower consumers to make informed decisions about which apps to trust, while providing builders clear, actionable feedback on how to improve their ENS integrations and stand out in a competitive landscape.
+  + ENSAwards raises the quality baseline for ENS integrations and incentivizes innovation and thoroughness. By making excellence visible and publicly rewarding the most dedicated builders, ENSAwards fosters a healthy competition among companies to prioritize best-in-class ENS functionality and user experience.
+* Strategic Goals
+  
+  + DAO Financial Stability
+  + Developer Enablement
 
 # 1. Applicant Information
 
@@ -579,11 +648,7 @@ Posted at: 2025-04-01T05:11:19.623Z
 
 The budget for our “basic” scope of work is: $1.1M.
 
-The budget for our “extended” scope of work is an additional $200k, for $1.3M (total).
-
-We take the responsibilities in this proposal with great care. The “basic” scope is the minimum budget required to properly advance our 8 key ENS infrastructure projects over the coming year. The “extended” scope budget is recommended as it provides a high ROI for ENS.
-
-These budgets align with our team taking a significant load of responsibility for ENS infrastructure development. This includes substantial engineering projects that are not only critical to the successful launch of ENSv2 and Namechain, but also deliver fundamental innovations for how future applications integrate with ENS and perform ENS lookups and resolution.
+We take the responsibilities in this proposal with great care. This budget aligns with our team taking a significant load of responsibility for ENS infrastructure development. This includes substantial engineering projects that are not only critical to the successful launch of ENSv2 and Namechain, but also deliver fundamental innovations for how future applications integrate with ENS and perform ENS lookups and resolution.
 
 The budget for this scope of work represents the ENS DAO making an important investment into advancing valuable ENS infrastructure. Several of our ENS infrastructure projects are working to restoratively boost ENS DAO revenues and contribute back to the long-term financial sustainability of ENS. We hope that for every $1 the DAO invests in our team, we return multiples of that as direct revenue back to the DAO in the future.
 
@@ -599,9 +664,9 @@ We want to ensure we’re always doing our best to maximize value creation for E
 
 Additionally, some Target Deliverables may have dependencies on external parties that are not fully under our control. For example, some of our Target Deliverables are dependent on the launch of ENSv2. We cannot fully control when ENSv2 launches. If Target Deliverables become blocked due to external parties, we reserve the right to replace an impacted Target Deliverable with an alternate of approximately equal or greater scope.
 
-We have a discussion open with ENS Labs about the possibility of an ENS Referral Program launching as part of ENSv1, rather than ENSv2. In the event the ENS DAO votes to approve and fund alternate ENS Referral Program strategies from those we have proposed, we reserve the right to replace impacted Target Deliverables with alternates of approximately equal or greater scope. If our Extended Scope is approved and the situation described in this clause is triggered, we will coordinate with Metagov Stewards on a responsible solution, such as us transferring the $50k in guaranteed ENSv2 Referral Programs funding into whatever pool of funds is servicing the alternate ENS Referral Program strategy, such that the broader intentions motivating the approval of our extended budget are followed as best as possible.
+We have a discussion open with ENS Labs about the possibility of an ENS Referral Program launching as part of ENSv1, rather than ENSv2. In the event the ENS DAO votes to approve and fund alternate ENS Referral Program strategies from those we have proposed, we reserve the right to replace impacted Target Deliverables with alternates of approximately equal or greater scope. If the situation described in this clause is triggered, we will coordinate with Metagov Stewards on a responsible solution, such as us transferring the $50k in guaranteed ENSv2 Referral Programs funding into whatever pool of funds is servicing the alternate ENS Referral Program strategy, such that the broader intentions motivating the approval of our extended budget are followed as best as possible.
 
-The following tables identify a quarterly breakdown of Target Deliverables for each of the ENS Infrastructure Solutions in our “basic” and “extended” scope.
+The following tables identify a quarterly breakdown of Target Deliverables for each of the ENS Infrastructure Solutions in our “basic” scope.
 
 Each quarter listed in these tables is relative to (the commencement date of SPP2 funding streams) + (3 months \* quarter) ~ ending day of that calendar month.
 
@@ -613,10 +678,10 @@ Each quarterly report will be delivered within 10 days of the conclusion of the 
 
 | Quarter | Target Deliverables |
 | --- | --- |
-| Q1 | 1. Transition ens-test-env from the ENS Subgraph to ENSNode in preparation for ENSv2 release.2. Coordinate with the ENS Labs team to identify and document the key requirements for transitioning the official ENS manager app and ENSjs to ENSNode and for supporting their ENSv2 requirements.3. Release “v1” of tokenized DNS name indexing.4. Complete audit of ENSv2 contracts and submit suggestions for optimized ENSv2 indexing.5. Expand multichain indexing support to 1-2 additional chains.6. Release L2 Primary Names indexing. |
-| Q2 | 1. Release “v1” of ENSNode to ensure the ENS ecosystem has an indexed data solution available prior to the ENSv2 release.2. Preview release of “ENS Resolution Accelerator” technology.3. Deploy hosted instances of ENSNode with optimized uptime availability free for the ENS community to use.4. Ship “v1” of ENSNode developer docs.5. Expand multichain indexing support to 1-2 additional chains.6. Support the transition of 1-3 apps in the ENS ecosystem from the ENS Subgraph to ENSNode. |
-| Q3 | 1. Ship “v1” of “ENS Resolution Accelerator” technology.2. Optimized self-hosting and DevOps to support stronger ENS protocol decentralization.3. Preview release of Offchain ENS Name indexing.4. Release “v2” of tokenized DNS name indexing.5. Expand multichain indexing support to 1-2 additional chains.6. Support the transition of 1-3 apps in the ENS ecosystem from the ENS Subgraph to ENSNode. |
-| Q4 | 1. Ship “v1” of Offchain ENS Name indexing.2. Ship “v2” of “ENS Resolution Accelerator” technology.3. Optimized scalability and maximised uptime enhancements.4. Ship “v2” of ENSNode developer docs.5. Expand multichain indexing support to 1-2 additional chains.6. Support the transition of 1-3 apps in the ENS ecosystem from the ENS Subgraph to ENSNode. |
+| Q1 | 1. Transition ens-test-env from the ENS Subgraph to ENSNode in preparation for ENSv2 release.2. Coordinate with the ENS Labs team to identify and document the key requirements for transitioning the official ENS manager app and ENSjs to ENSNode and for supporting their ENSv2 requirements.3. Release “v1” of tokenized DNS name indexing.4. Complete audit of ENSv2 contracts and submit suggestions for optimized ENSv2 indexing.5. Expand multichain indexing support to 1-2 additional chains.6. Release L2 Primary Names indexing.7. Ship optional prevention of unnormalized ENS name values from being returned in API requests (returning “encoded labelhashes” instead, improving security and reducing ENS developer complexity). |
+| Q2 | 1. Release “v1” of ENSNode to ensure the ENS ecosystem has an indexed data solution available prior to the ENSv2 release.2. Preview release of “ENS Resolution Accelerator” technology.3. Deploy hosted instances of ENSNode with optimized uptime availability free for the ENS community to use.4. Ship “v1” of ENSNode developer docs.5. Expand multichain indexing support to 1-2 additional chains.6. Support the transition of 1-3 apps in the ENS ecosystem from the ENS Subgraph to ENSNode.7. R&D for React hooks and UI component libraries building on ENSNode’s accelerated loading strategy. |
+| Q3 | 1. Ship “v1” of “ENS Resolution Accelerator” technology.2. Optimized self-hosting and DevOps to support stronger ENS protocol decentralization.3. Preview release of Offchain ENS Name indexing.4. Release “v2” of tokenized DNS name indexing.5. Expand multichain indexing support to 1-2 additional chains.6. Support the transition of 1-3 apps in the ENS ecosystem from the ENS Subgraph to ENSNode.7. Ship preview React Hooks and UI component library for accelerated ENS social profiles.8. Ship 1-3 integrations of preview React hooks and UI component library for accelerated ENS social profiles.9. Release “health check” capabilities to identify improperly configured resolver records. |
+| Q4 | 1. Ship “v1” of Offchain ENS Name indexing.2. Ship “v2” of “ENS Resolution Accelerator” technology.3. Optimized scalability and maximised uptime enhancements.4. Ship “v2” of ENSNode developer docs.5. Expand multichain indexing support to 1-2 additional chains.6. Support the transition of 1-3 apps in the ENS ecosystem from the ENS Subgraph to ENSNode.7. Ship “v1” React Hooks and UI component library for accelerated ENS social profiles.8. Ship 3-6 integrations of React hooks and UI component library for accelerated ENS social profiles.9. Release native “health check” capability to identify dangerous ENS name configurations, such as the case that a name’s ownership has changed in a manner where the deposit addresses likely should be updated to avoid irreversible loss of funds. |
 
 ### 4.1.2. ENSRainbow
 
@@ -636,70 +701,44 @@ Each quarterly report will be delivered within 10 days of the conclusion of the 
 | Q3 | 1. Ship “ENS Protocol Inspector” support for 2 additional ENS resolution scenarios.2. Expand the ENS integrator library of important ENS resolution test cases by 2 or more.3. Ship “ENS Protocol Inspector” for “ENS Resolution Accelerator”. |
 | Q4 | 1. Ship “ENS Protocol Inspector” support for 2 additional ENS resolution scenarios.2. Expand the ENS integrator library of important ENS resolution test cases by 2 or more.3. Ship ENSNode DevOps dashboard for improved ENSNode operations, monitoring, and maintenance. |
 
-### 4.1.4. ENSv2 Referral Programs (Technical Deployment)
+### 4.1.4. ENSv2 Referral Programs (Technical Deployment + Guaranteed $50,000 Funding)
 
 | Quarter | Target Deliverables |
 | --- | --- |
 | Q1 | 1. Ship contracts and documentation with proposed referral program revenue sharing strategy in preparation for ENSv2 launch. |
-| Q2 | 1. Ship promotional landing page microsite in preparation for ENSv2 Referral Programs launch. |
-| Q3 | 1. Ship indexer and live reward tracking dashboards for ENSv2 Referral Programs launch. |
-| Q4 | 1. Launch ENSv2 Referral Programs in coordination with the launch of ENSv2. |
+| Q2 | 1. Ship promotional landing page microsite in preparation for ENSv2 Referral Programs launch.2. Ship 5-10 targeted outreach campaigns to prospective ENSv2 Referral Program apps and wallets, promoting the recurring revenue model opportunity for promoting the registration and renewal of .eth names. |
+| Q3 | 1. Ship indexer and live reward tracking dashboards for ENSv2 Referral Programs launch.2. Deliver ENS integration support to apps and wallets expressing interest to participate in ENSv2 Referral Programs.3. Ship 5-10 additional targeted outreach campaigns to prospective ENSv2 Referral Program apps and wallets, promoting the recurring revenue model opportunity for promoting the registration and renewal of .eth names. |
+| Q4 | 1. Launch ENSv2 Referral Programs in coordination with the launch of ENSv2.2. Fund ENSv2 Referral Programs contracts with guaranteed $50,000.3. Deliver ENS integration support to apps and wallets expressing interest to participate in ENSv2 Referral Programs.4. Ship 5-10 additional targeted outreach campaigns to prospective ENSv2 Referral Program apps and wallets, promoting the recurring revenue model opportunity for promoting the registration and renewal of .eth names.5. Report on outcomes, lessons learned, and suggestions for the future for ENS Referral Programs. |
 
-### 4.1.5. NameGraph
-
-| Quarter | Target Deliverables |
-| --- | --- |
-| Q1 | 1. R&D for supporting community curated name collections.2. R&D for LLM-augmented collection refinements.3. Ship 1-2 new NameGraph integrations. |
-| Q2 | 1. R&D for supporting community curated name collections.2. R&D for LLM-augmented collection refinements.3. Ship 1-2 new NameGraph integrations. |
-| Q3 | 1. Preview release for supporting community curated name collections.2. Preview release for LLM-augmented collection refinements.3. Ship 1-2 new NameGraph integrations. |
-| Q4 | 1. Ship “v1” release for supporting community curated name collections.2. Ship “v1” release for LLM-augmented collection refinements.3. Ship 1-2 new NameGraph integrations. |
-
-### 4.1.6. NameAI
-
-| Quarter | Target Deliverables |
-| --- | --- |
-| Q1 | 1. Ship enhanced AI tokenizer strategies.2. Ship 1 new NameAI integration. |
-| Q2 | 1. Ship enhanced internationalized name tokenizer strategies.2. Ship 1 new NameAI integration. |
-| Q3 | 1. Ship “v1” release of an enhanced NameAI technology showcase demonstrating valuable strategies for multi-dimensional name scoring.2. Ship 1 new NameAI integration. |
-| Q4 | 1. Ship “v2” release of an enhanced NameAI technology showcase demonstrating valuable strategies for multi-dimensional name scoring.2. Ship 1 new NameAI integration. |
-
-### 4.1.7. NameGuard
-
-| Quarter | Target Deliverables |
-| --- | --- |
-| Q1 | 1. R&D for rearchitecture transitioning to use of ENSNode services for improved analysis of ENS names. |
-| Q2 | 1. Ship “v1” rearchitecture transitioning to use of ENSNode services for improved analysis of ENS names. |
-| Q3 | 1. Ship “v2” rearchitecture transitioning core NameGuard and LabelInspector logic from Python into TypeScript packages that can be embedded directly into ENSNode or other apps / services.2. Ship 1 new ENS name configuration health check. |
-| Q4 | 1. Ship 3 new ENS name configuration health checks.2. Ship NameGuard integration with the “ENS Protocol Inspector” in ENSAdmin. |
-
-### 4.1.8. NameKit
-
-| Quarter | Target Deliverables |
-| --- | --- |
-| Q1 | 1. R&D for rearchitecture transitioning to use of ENSNode services as an accelerated loading strategy for NameKit React hooks and UI component libraries. |
-| Q2 | 1. Ship preview React Hooks and UI component library for accelerated ENS social profiles. |
-| Q3 | 1. Ship “v1” React Hooks and UI component library for accelerated ENS social profiles.2. Ship integration with ENSAdmin.3. Ship integration with NameGraph.4. R&D for “Universal” ENS profile editing React hooks and UI components. |
-| Q4 | 1. Ship “v1” of “Universal” ENS profile editing React hooks and UI components.2. Ship 3-6 integrations of NameKit. |
-
-## 4.2. Extended Scope of Work
-
-### 4.2.1. ENSv2 Referral Programs (Guaranteed $50k Funding)
-
-| Quarter | Target Deliverables |
-| --- | --- |
-| (circa 2 quarters before expected ENSv2 launch) | 1. Ship 5-10 targeted outreach campaigns to prospective ENSv2 Referral Program apps and wallets, promoting the recurring revenue model opportunity for promoting the registration and renewal of .eth names. |
-| (circa 1 quarter before expected ENSv2 launch) | 1. Deliver ENS integration support to apps and wallets expressing interest to participate in ENSv2 Referral Programs.2. Ship 5-10 additional targeted outreach campaigns to prospective ENSv2 Referral Program apps and wallets, promoting the recurring revenue model opportunity for promoting the registration and renewal of .eth names. |
-| (quarter of ENSv2 launch) | 1. Fund ENSv2 Referral Programs contracts with guaranteed $50k.2. Deliver ENS integration support to apps and wallets expressing interest to participate in ENSv2 Referral Programs.3. Ship 5-10 additional targeted outreach campaigns to prospective ENSv2 Referral Program apps and wallets, promoting the recurring revenue model opportunity for promoting the registration and renewal of .eth names. |
-| (quarter after ENSv2 launch) | 1. Report on outcomes, lessons learned, and suggestions for the future for ENS Referral Programs. |
-
-### 4.2.2. ENS TokenScope
+### 4.1.5. ENS TokenScope
 
 | Quarter | Target Deliverables |
 | --- | --- |
 | Q1 | 1. R&D for protocol implementation strategies to map from ENS names to their ownership controlling tokens.2. Ship support for name sales history. |
-| Q2 | 1. Ship support for aggregation of onchain and offchain buy and sell order data for tokenized ENS names.2. Ship support for querying the top buy and sell orders for tokenized ENS names. |
-| Q3 | 1. Ship support for updating the status of buy orders based on wallet balance changes.2. Ship support for creating new buy and sell orders for tokenized ENS names. |
-| Q4 | 1. Ship support for unified queries of primary and secondary market state for tokenized ENS names.2. Ship 2-4 integrations with ENS TokenScope. |
+| Q2 | 1. Ship support for aggregation of onchain and offchain buy and sell order data for tokenized ENS names.2. Ship support for querying the top buy and sell orders for tokenized ENS names.3. Ship support for creating new buy and sell orders for tokenized ENS names.4. Ship support for unified queries of primary and secondary market state for tokenized ENS names. |
+| Q3 | 1. Ship support for updating the status of buy orders based on wallet balance changes.2. Ship 1-3 integrations of ENS TokenScope. |
+| Q4 | 1. Ship 1-3 integrations with ENS TokenScope. |
+
+### 4.1.6. ENSAwards
+
+| Quarter | Target Deliverables |
+| --- | --- |
+| Q1 | 1. Ship initial ENSAwards landing page, featuring key metrics and tests that will be used to evaluate and award ENS integrations. |
+| Q2 | 1. Complete detailed benchmarks of 2-4 ENS integrations. Produce detailed reports. Promote issued awards on social media.2. Refine key metrics and tests used to evaluate and award ENS integrations. |
+| Q3 | 1. Complete detailed benchmarks of 2-4 ENS integrations. Produce detailed reports. Promote issued awards on social media.2. Refine key metrics and tests used to evaluate and award ENS integrations. |
+| Q4 | 1. Complete detailed benchmarks of 2-4 ENS integrations. Produce detailed reports. Promote issued awards on social media.2. Refine key metrics and tests used to evaluate and award ENS integrations. |
+
+### 4.1.7. NameGraph, NameAI, NameGuard, and NameKit
+
+As much as we love these products and see the opportunity they bring to ENS (a lot!!), we also recognize the importance of optimizing our focus on even higher value opportunities listed in 4.1.1 - 4.1.6.
+
+Therefore, we propose to allocate these projects into “Standby Mode” where they will remain available in a minimal maintenance mode through the duration of SPP2. This approach allows us to preserve their availability while concentrating resources on higher-priority initiatives.
+
+## 4.2. Extended Scope of Work
+
+**UPDATE:** We have revised our proposal to consolidate (and expand!) all the highest value opportunities inside our “basic” proposal. This removes a proposed “extended” scope of work.
+
+See the “Strategy Overview” in section 0.3 and “NameGraph, NameAI, NameGuard, and NameKit” in section 4.1.7 above for related details.
 
 ## 4.3. Second-Year Stream Scope of Work
 
@@ -761,6 +800,36 @@ Posted at: 2025-04-03T15:15:41.058Z
 Indexing ENS names is a hard task that I myself was trying to tackle in 2018 (I did a hackathon on it in ETHBerlin 2018 and I used node data that Nick helped to dump out for me on big query) just before the graph was built. The graph was never built for dealing with CCIP-read and it makes sense for a team to take on this task as with ENS going to its own L2 this has to be production ready.
 
 I’m happy to endorse Namehash for SPP2.
+
+---
+
+# Post #8 by matoken.eth
+Posted at: 2025-04-25T11:24:54.594Z
+
+I have been collaborating with the team for their ENSNode ENS v2 contract integration work and I am impressed with how hard working the team is. I highly recommend Namehash for SPP2.
+
+---
+
+# Post #9 by lightwalker.eth
+Posted at: 2025-04-28T01:31:20.543Z
+
+**Update:** Sharing our gratitude with each of the ENS community members who have reached out to us over the past weeks with helpful feedback on our initial SPP2 proposal. This feedback was most helpful! We’ve listened carefully and taken each of your comments to heart.
+
+We heard a consensus that highly valued the work we’re delivering for Critical ENS Infrastructure. Feedback was also very positive on the need for stabilizing ENS DAO revenues, but advice was split on what strategies were best to solve the DAO’s revenue challenges. ENSv2 Referral Programs were popular, but common feedback was for us to reduce focus on NameGraph, NameAI, NameGuard, and NameKit. We continue to see the value in those projects, but consensus was for us to put more focus at this time on Critical ENS Infrastructure such as ENSNode.
+
+Taking all the feedback and other factors into consideration, earlier this evening we updated our proposal to reflect the following key changes:
+
+1. We removed the proposed “extended” budget of $1.3m to proactively narrow our focus on the highest value projects and provide more funding opportunities for other teams whose proposals would be great for ENS! ![:heart:](https://discuss.ens.domains/images/emoji/twitter/heart.png?v=12 ":heart:")
+2. Updated NameGraph, NameAI, NameGuard, and NameKit to “Standby Mode”, reallocating their next deliverables out of the SPP2 proposal scope.
+3. We transferred all deliverables that were previously in our “extended” scope into “basic”:
+   * ![:rocket:](https://discuss.ens.domains/images/emoji/twitter/rocket.png?v=12 ":rocket:") **$50,000 in guaranteed funding for ENSv2 Referral Programs.**
+   * ![:telescope:](https://discuss.ens.domains/images/emoji/twitter/telescope.png?v=12 ":telescope:") **ENS TokenScope** (the urgency for this skyrocketed on April 15 due to Reservoir’s announcement to shutdown their NFT API on October 15. Without ENS TokenScope providing a ready replacement, most ENS aftermarkets will have to shut down which will ultimately cause significant further collapse of ENS DAO revenue. For additional background and details, please see section 0.4.9 of our proposal above.)
+4. ![:star:](https://discuss.ens.domains/images/emoji/twitter/star.png?v=12 ":star:") **added 8 key new deliverables for ENSNode** ![:star:](https://discuss.ens.domains/images/emoji/twitter/star.png?v=12 ":star:") to make this vital infrastructure for ENSv2 even better!
+5. ![:trophy:](https://discuss.ens.domains/images/emoji/twitter/trophy.png?v=12 ":trophy:") **ENSAwards** ![:trophy:](https://discuss.ens.domains/images/emoji/twitter/trophy.png?v=12 ":trophy:") added as an exciting new project to our “basic” scope. This project will teach and promote standards of excellence in ENS integrations. Apps providing the best support for ENS protocol standards and edge cases will receive public awards and recognition. We believe this project can deliver big results for improving the UX and capabilities of ENS integrations in the wild! For additional details, please see section 0.4.10 of our proposal above.
+
+Outside the scope of this SPP2 proposal, we’re also happy to report that this past week our team completed another important step in preparations for bidding in the upcoming ICANN TLD auctions. We are exploring bids on attractive new DNS TLDs that could be tokenized on Namechain to expand new channels for ENS DAO revenues beyond exclusive dependence on .eth names. ENS is more than .eth, it’s a superset of DNS. We believe stronger DNS integrations into ENS can be a fantastic opportunity for ENS’s future growth! ![:sunrise:](https://discuss.ens.domains/images/emoji/twitter/sunrise.png?v=12 ":sunrise:")
+
+Our team is honored by the endorsements received in this thread! A huge thanks to everyone for your support. Your support means the world to our team! ![:heart:](https://discuss.ens.domains/images/emoji/twitter/heart.png?v=12 ":heart:")
 
 ---
 

@@ -69,21 +69,21 @@ GovPal’s goal is to empower ENS governance with AI-driven tools that support d
 * **Objective:** Make proposal workflows AI assisted to ensure smooth governance and communications.
 * **KPI:** Metagovernance stewards satisfaction and accuracy
 
-#### 3. Transparent Voting Impact & Delegate Insights
+#### 3. Agent for Delegate Insights
 
 * **Key Activities:**
   
   + Build an AI tool that automatically analyzes and explains the impacts of proposals, giving ENS users deeper insights into the outcomes of each vote.
-  + Develop a delegate voting record tool that tracks and displays historical voting behavior and decision-making patterns, offering transparency and accountability.
+  + Use the AI to suggest improvements to voting practices based on past successes and failures, such as optimal timing for proposals, effective framing techniques, identifying participation bottlenecks, communication strategies, quorum adjustments, and successful bundling patterns.
   + Use the AI to suggest improvements to voting practices based on past successes and failures.
-* **Objective:** Provide transparency and real-time insights into voting impacts and delegate actions, fostering trust in the decision-making process.
+* **Objective:** Provide real-time insights into voting impacts and delegate actions, fostering discussion in the decision-making process.
 * **KPI:** Accuracy of the data
 
 #### 4. Personalized AI Notifications & Governance Advisor
 
 * **Key Activities:**
   
-  + Train an AI assistant to act as a personalized governance advisor, sending tailored notifications about proposals and discussions relevant to users’ preferences.
+  + Train an AI assistant to act as a personalized governance advisor, sending tailored notifications about proposals and discussions. We can create a dashboard where users either personalize their preferences or receive ENS community-aligned information shown to everyone. We would conduct thorough research on community needs and deliver a solution that reflects what the community actually wants.
   + Enable users to set custom preferences and receive proactive insights on important votes, ensuring that token holders stay engaged in decisions that matter to them.
   + Provide a tool for AI to learn from user interactions, improving its recommendations over time.
 * **Objective:** Empower token holders with a personalized governance experience, ensuring they stay informed and make data-driven decisions.
@@ -93,7 +93,7 @@ GovPal’s goal is to empower ENS governance with AI-driven tools that support d
 
 * **Key Activities:**
   
-  + Develop a dashboard to assist stewards and token holders in making more informed decisions by providing real-time insights, trend analysis, and sentiment reports.
+  + Develop a dashboard to assist stewards and token holders in making more informed decisions by providing real-time insights such as delegate activity or proposal impact analysis with trend analysis including voting behavior trends, delegate consistency, or community sentiment shifts, and sentiment reports.
   + Offer decision-making frameworks based on governance best practices and historical trends, helping stakeholders navigate complex governance situations.
   + Ensure that AI-driven suggestions are presented as insights, helping them optimize their decision-making process while respecting the community’s voice. We want to build it in a way that we could give AI a voice if we want to.
 * **Objective:** Equip stakeholders with the tools they need to be up to speed, reduce friction in governance processes, and improve overall community engagement.
@@ -150,6 +150,18 @@ Good luck in SPP2!
 ---
 
 *Metagov Stewards*
+
+---
+
+# Post #3 by daostrat.eth
+Posted at: 2025-04-26T15:00:21.961Z
+
+![](https://discuss.ens.domains/user_avatar/discuss.ens.domains/daostrat.eth/48/11349_2.png) daostrat.eth:
+> Metagov will include you in the group endorsement snapshot on April 1.
+
+Metagov has decided to blanket endorse the remaining applications.
+
+Formally, *I endorse GovPal’s SPP2 application!*
 
 ---
 

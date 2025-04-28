@@ -23,15 +23,17 @@ Our proven track record includes identifying and preventing a potential governan
 
 6. **Requested Amount**:
 
-Basic budget: 400k  
+Basic budget: 700k  
 
-Extended budget: 700k total
+Extended budget: 100k
 
 7. **Size of team and commitment**
 
 In the last 2 year, blockful has +90% of metagov and ecosystem call attendence. That’s just one simple example to show our presence and constant commitment with ENS.
 
-Beside dedicating to ENS protocol development, our main work as an organization has been around governance security — not just for ENS, but also for other DAOs like Uniswap and Optimism, with more on the way. This gives us the hands-on experience to build mature, reliable tools. The entire team is involved in the scope for this proposal:
+We are always available and ready to support ENS how we can. The [spp.vote](https://spp.vote/) app is an example of that, where we created a production-ready UI for the SPP vote within 1 week.
+
+Besides dedicating to ENS protocol development, our main work as an organization has been around governance security — not just for ENS, but also for other DAOs like Uniswap and Optimism, with more on the way. This gives us the hands-on experience to build mature, reliable tools. The entire team is involved in the scope for this proposal:
 
 * 2 Full-stack Engineers
 * 2 Back-end/Smart Contract eng
@@ -42,7 +44,7 @@ Beside dedicating to ENS protocol development, our main work as an organization 
 * 1 Product Designer
 * 1 Governance researcher
 
-As we are **totally bootstrapped**, never having raised a penny from investors, this funding is crucial for us to focus on ENS and effectively address this major security problem. For that we also need to be competitive, retain and build a world-class team for the long-term.
+As we are **totally bootstrapped**, never having raised a penny from investors, this funding is crucial for us to focus on ENS and effectively address this major security problem. For that, we also need to be competitive, retain, and build a world-class team for the long term.
 
 [![blockful-collage](https://discuss.ens.domains/uploads/db9688/optimized/2X/a/af6f1dcfa2aac85869220f3b77b2b5d752928a4e_2_500x500.jpeg)blockful-collage3000×3000 925 KB](https://discuss.ens.domains/uploads/db9688/original/2X/a/af6f1dcfa2aac85869220f3b77b2b5d752928a4e.jpeg "blockful-collage")  
 
@@ -61,6 +63,7 @@ Our team has extensive experience with ENS, not only on governance, but also in-
 * [test implementation for referral fee on the ETHRegistrarController](https://medium.com/blockful/ethregistercontrollerv2-29d04eec48a5)
 * [mitigation of a governance attack](https://mirror.xyz/research.blockful.eth) and creation of the ENS Security Council contract and [proposal](https://www.tally.xyz/gov/ens/proposal/42329103797433777309488042029679811802172320979541414683300183273376839219133)
 * [ENSIP-20](https://docs.ens.domains/ensip/20), a major improvement on User Experience (UX), Developer Experience (DX) for managing domains
+* [spp.vote](https://spp.vote/), a UI that implemented the custom voting UX and a detailed dashboard to understand the result of the SPP vote in real time.
 
 2.3. **ENS Token Endorsement Requirement**
 
@@ -123,6 +126,13 @@ If you wanna understand in depth, [here](https://youtu.be/4DQAAttk63k) is our pr
 [![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/3/3e0aa6c504d3ae42a09ed2f0165f5c5e8867f4ac_2_690x334.jpeg)image1558×756 98.4 KB](https://discuss.ens.domains/uploads/db9688/original/2X/3/3e0aa6c504d3ae42a09ed2f0165f5c5e8867f4ac.jpeg "image")
 
 ### **4.1 Basic Scope of Work**
+
+There are two options for ENS DAO to not suffer a governance attack:
+
+1. Depend on the security council and renew it.
+2. Proactively solving and attacking this problem on different fronts, based on specialized research.
+
+Here, we are exploring option 2. While also continuing our efforts on the ENS protocol level.
 
 #### **4.1.1 ENSIP-20 Wildcard Writing Implementation** → Goal #2 - Protocol Development
 
@@ -192,20 +202,7 @@ Our past SPP term also had this scope, which had great feedback from delegates, 
 
 > This data intensive product has high infrastructure cost, RPC requests, database, servers. All of this for dev, staging and production environments.
 
----
-
-Basic budget: $400k
-
-### **4.2 Extended Scope of Work**
-
-There are two options for ENS DAO to not suffer a governance attack:
-
-1. Depend on the security council and renew it.
-2. Proactively solving and attacking this problem on different fronts, based on specialized research.
-
-Here, we are exploring option 2.
-
-#### 4.2.1 **Governor Contract Security Improvements** → Goal #1 - Governance Security
+#### 4.1.4 **Governor Contract Security Improvements** → Goal #1 - Governance Security
 
 > Screenshot from [anticapture.com](https://anticapture.com/ens). These initial risk assessement comes from research, studying other governor contracts and mapping what are parameters on governance implementation that increase risks for gov attacks.  
 > 
@@ -226,7 +223,7 @@ Here, we are exploring option 2.
 
 We do think this whole process will take less and we’ll aim for that, since it’s a security concern.
 
-#### 4.2.2 **Delegation Incentives System** → Goal #1 - Governance Security
+#### 4.1.5 **Delegation Incentives System** → Goal #1 - Governance Security
 
 *Impact: Creating solutions to meaningfully increase delegation rates. This is the core need for not depending on the Security Council*
 
@@ -247,7 +244,7 @@ We do think this whole process will take less and we’ll aim for that, since it
 
 \*Some KPIs depend on third-party decisions and can be delayed. We’ll aim to execute it
 
-#### 4.2.3 **Reliable Notification System** → Goal #1 - Governance Security
+#### 4.1.6 **Reliable Notification System** → Goal #1 - Governance Security
 
 *Impact: Developing a reliable multi-platform and alert infrastructure that ensures no stakeholder misses critical governance actions.*
 
@@ -264,7 +261,7 @@ We do think this whole process will take less and we’ll aim for that, since it
 | Q3 | Support offchain votes, uptime 99% |
 | Q4 | Notify security thread from anticapture and uptime 99% |
 
-#### 4.2.4 **Security Council needs** → Goal #1 - Governance Security
+#### 4.1.7 **Security Council needs** → Goal #1 - Governance Security
 
 *Impact: Keeps the DAO safe, if anticapture shows that we’re still depending on the security council and it’s near it’s expiration.*
 
@@ -284,7 +281,46 @@ If the DAO is still in a vulnerable situation:
 
 ---
 
-**Extended budget:** $300k additional funding ($700k in total)
+Basic budget: $700k
+
+### **4.2 Extended Scope of Work**
+
+#### 4.2.1 **Governance Frontend** → Goal #1 - Governance Security
+
+*Impact: Governance UX tailored for ENS, improving DAO operations. Since the team intimately understands the ENS governance context and high availability.*
+
+Over the last several weeks, as the SPP voting strategies have evolved, blockful has found itself in the middle of an incredible opportunity to contribute to the ENS DAO’s voting experience. In doing so, we found this type of work very much complements the services we provide through our anticapture and governance security work.
+
+This fully [functional frontend](https://spp.vote/) for the SPP2 vote, that our team shipped within 1 week, as a contribution (allocating our resources).
+
+* Shows all details needed, from specifics of the Copeland method to the allocation mechanism and rules of SPP2.
+* Implements voting, integrated with snapshot and building specific UI/UX needed for this vote (see [EP6.5](https://snapshot.box/#/s:ens.eth/proposal/0x60c95ab69a427ce263f4c3c950df8da1134e96a3e76d139c8dac366271009530)).
+
+[![image](https://discuss.ens.domains/uploads/db9688/optimized/2X/0/06cbb8f8b835a6ce82e2755f740d2531c9440c9c_2_690x442.png)image2552×1636 339 KB](https://discuss.ens.domains/uploads/db9688/original/2X/0/06cbb8f8b835a6ce82e2755f740d2531c9440c9c.png "image")
+
+In this scope, we are proposing a governance frontend for the ENS governance (beyond SPP2) capable of
+
+* Voting from EOAs and multisigs
+* Gasless voting
+* Proposing, guiding the proposer through the specific ENS governance process (like EP numbers, posting it on the forum)
+* Proposal drafts
+* Details and insights about each vote and delegates
+* Integration with existing ENS DAO infrastructure
+* Mobile-responsive design for broader participation
+* Snapshot integration
+
+| Quarter | KPIs |
+| --- | --- |
+| Q1 | - V1 with voting capabilities- Mobile-responsive design implementation- User testing and feedback collection |
+| Q2 | - Multisig integration complete- Gasless voting implementation- Proposal creation wizard with forum posting guidance |
+| Q3 | - Proposal drafting and collaboration features- Delegate insights dashboard- Full integration with ENS DAO infrastructure |
+| Q4 | - Advanced voting analytics- Performance optimization based on actual usage data- 99.9% uptime achievement- 20% of votes being cast by this frontend, increasing gov client diversity- Snapshot integration |
+
+Will aim to deliver the KPIs as soon as we can, since it’s not a complex scope.
+
+**Extended budget:** $100k
+
+---
 
 ### 4.3 Second Year Stream Scope of Work
 
@@ -294,6 +330,7 @@ The scope for the second year, if selected, would be focused on:
 * Maintaining and evolve all the product above so they are reliable and accurate.
 * Continuing to secure DAO operations through proposals calldata review
 * The governance security work needed is probably bigger than we imagine, and we only stop when the anticapture dashboard tell us the DAO is secure.
+* Maintaining and improving the governance frontend (if extended budget is selected)
 
 ## **5. Past Achievements & Additional Information**
 
@@ -315,6 +352,7 @@ The scope for the second year, if selected, would be focused on:
 | 2024 | Improving Management of Domains (talk @ frENSday) | [YouTube](https://youtu.be/4DQAAttk63k) | SPP1 |
 | 2025 | Operation Router EIP | [Ethereum Magicians](https://eips.ethereum.org/EIPS/eip-7884) | SPP1 |
 | 2025 | ENSjs partial ENSIP-20 integration | [GitHub PR](https://github.com/ensdomains/ensjs/pull/226) | SPP1 |
+| 2025 | SPP2 voting and analytics UI | [App](https://spp.vote/), [GitHub](https://github.com/blockful-io/spp2-voting-app) | Contribution |
 
 On SPP1 we received $300k, which is on the lower end of the program and we had a great amount and quality of deliveries. Mainly ENSIP-20, which we are super excited about.
 
